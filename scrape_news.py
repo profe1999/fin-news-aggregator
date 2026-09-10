@@ -50,7 +50,7 @@ KEYWORDS = [
     r"\bgas\b", r"\bgold\b", r"\bcopper\b", r"\baluminum\b", r"\bmetal",
     r"\bsanction", r"\bexport", r"\bopec", r"\bipo\b", r"\bspo\b",
     r"\bdividend", r"\bprofit", r"\bearnings", r"\brevenue",
-    r"\breserve", r"\binterest rate", r"\bfed\b", r"\becb\b",
+    r"\breserve", r"\binterest rate", r"\bfed\b", r"\becb\b", r"\russia\b",
     r"\binvestment", r"\bdelisting", r"\brate cut", r"\brate hike",
 ]
 
