@@ -8,21 +8,31 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
+import feedparser
 import requests
 from bs4 import BeautifulSoup
 
 # ================== НАСТРОЙКИ ==================
 NEWS_FILE = Path("news.json")
 KEEP_DAYS = 7
+
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/128.0.0.0 Safari/537.36"
 )
 
+HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+}
+
+# Ключевые слова (русский + английский)
 KEYWORDS = [
+    # русские
     r"мсфо", r"отчетност", r"отчётност", r"отчет\b", r"отчёт\b",
-    r"отчитался", r"отчиталась", r"отчитались", r"russia",
+    r"отчитался", r"отчиталась", r"отчитались",
     r"денежн\w*\s+масс", r"\bм2\b", r"\bм2х\b", r"ипц",
     r"индекс\s+потребительских\s+цен",
     r"\bввп\b", r"инфляц", r"нефть", r"brent", r"\bгаз\b",
@@ -34,20 +44,21 @@ KEYWORDS = [
     r"делистинг", r"\bipo\b", r"\bspo\b", r"допэмисси",
     r"инвестиц", r"частн\w*\s+инвестор",
     r"дивиденд", r"чистая\s+прибыль", r"\bприбыль\b",
+
+    # английские (для Bloomberg)
+    r"\binflation\b", r"\bcpi\b", r"\bgdp\b", r"\boil\b", r"\bbrent\b",
+    r"\bgas\b", r"\bgold\b", r"\bcopper\b", r"\baluminum\b", r"\bmetal",
+    r"\bsanction", r"\bexport", r"\bopec", r"\bipo\b", r"\bspo\b",
+    r"\bdividend", r"\bprofit", r"\bearnings", r"\brevenue",
+    r"\breserve", r"\binterest rate", r"\bfed\b", r"\becb\b",
+    r"\binvestment", r"\bdelisting", r"\brate cut", r"\brate hike",
 ]
 
-# Компилируем регулярки один раз
 KEYWORD_RE = re.compile("|".join(KEYWORDS), re.IGNORECASE | re.UNICODE)
-
-HEADERS = {
-    "User-Agent": USER_AGENT,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
-}
 
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
-TIMEOUT = 25
+TIMEOUT = 30
 
 
 def normalize_text(text: str) -> str:
@@ -64,23 +75,22 @@ def load_existing() -> list:
     try:
         data = json.loads(NEWS_FILE.read_text(encoding="utf-8"))
         return data.get("items", [])
-    except Exception:
+    except Exception as e:
+        print(f"[WARN] Не удалось прочитать news.json: {e}")
         return []
 
 
 def save_news(items: list):
-    # Удаляем старше KEEP_DAYS
     cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
     filtered = []
     seen = set()
 
     for item in items:
-        link = item.get("link", "").strip()
+        link = (item.get("link") or "").strip()
         if not link or link in seen:
             continue
         seen.add(link)
 
-        # дата
         try:
             dt = datetime.fromisoformat(item["date"].replace("Z", "+00:00"))
         except Exception:
@@ -92,7 +102,6 @@ def save_news(items: list):
         item["date"] = dt.isoformat()
         filtered.append(item)
 
-    # Сортируем новые сверху
     filtered.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     payload = {
@@ -104,150 +113,42 @@ def save_news(items: list):
         json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"Сохранено {len(filtered)} новостей")
+    print(f"\n=== Сохранено {len(filtered)} новостей (за последние {KEEP_DAYS} дней) ===")
 
-
-def fetch(url: str) -> str | None:
-    try:
-        r = SESSION.get(url, timeout=TIMEOUT)
-        r.raise_for_status()
-        r.encoding = r.apparent_encoding or "utf-8"
-        return r.text
-    except Exception as e:
-        print(f"[ERROR] {url}: {e}")
-        return None
-
-
-# ================== ПАРСЕРЫ САЙТОВ ==================
-
-def parse_interfax(html: str, base: str = "https://www.interfax.ru") -> list:
-    soup = BeautifulSoup(html, "lxml")
-    items = []
-
-    # Основные блоки новостей на главной
-    for a in soup.select("a"):
-        title = normalize_text(a.get_text())
-        href = a.get("href") or ""
-        if not title or len(title) < 25:
-            continue
-        if not matches_keywords(title):
-            continue
-
-        link = urljoin(base, href)
-        if "interfax.ru" not in urlparse(link).netloc:
-            continue
-        # отсекаем служебные ссылки
-        if any(x in link for x in ["/rss", "/photo", "/video", "javascript:"]):
-            continue
-
-        items.append({
-            "title": title,
-            "link": link,
-            "source": "Интерфакс",
-            "date": datetime.now(timezone.utc).isoformat(),
-        })
-    return items
-
-
-def parse_kommersant(html: str, base: str = "https://www.kommersant.ru") -> list:
-    soup = BeautifulSoup(html, "lxml")
-    items = []
-
-    # Заголовки в ленте финансов / главной
-    for a in soup.select("a.u-link, a[href*='/doc/'], h2 a, h3 a, .rubric_lenta a"):
-        title = normalize_text(a.get_text())
-        href = a.get("href") or ""
-        if not title or len(title) < 20:
-            continue
-        if not matches_keywords(title):
-            continue
-
-        link = urljoin(base, href)
-        if "kommersant.ru" not in urlparse(link).netloc:
-            continue
-
-        items.append({
-            "title": title,
-            "link": link,
-            "source": "Коммерсантъ",
-            "date": datetime.now(timezone.utc).isoformat(),
-        })
-    return items
-
-
-def parse_finam(html: str, base: str = "https://www.finam.ru") -> list:
-    soup = BeautifulSoup(html, "lxml")
-    items = []
-
-    for a in soup.select("a"):
-        title = normalize_text(a.get_text())
-        href = a.get("href") or ""
-        if not title or len(title) < 20:
-            continue
-        if not matches_keywords(title):
-            continue
-
-        link = urljoin(base, href)
-        if "finam.ru" not in urlparse(link).netloc:
-            continue
-        # новости обычно лежат в /publications/ или /analysis/ и т.п.
-        if not any(x in link for x in ["/publications/", "/analysis/", "/news/", "/outlook/"]):
-            continue
-
-        items.append({
-            "title": title,
-            "link": link,
-            "source": "Финам",
-            "date": datetime.now(timezone.utc).isoformat(),
-        })
-    return items
-
-
-def parse_bloomberg(html: str, base: str = "https://www.bloomberg.com") -> list:
-    soup = BeautifulSoup(html, "lxml")
-    items = []
-
-    for a in soup.select("a"):
-        title = normalize_text(a.get_text())
-        href = a.get("href") or ""
-        if not title or len(title) < 25:
-            continue
-        if not matches_keywords(title):
-            continue
-
-        link = urljoin(base, href)
-        if "bloomberg.com" not in urlparse(link).netloc:
-            continue
-        if "/news/" not in link and "/articles/" not in link:
-            continue
-
-        items.append({
-            "title": title,
-            "link": link,
-            "source": "Bloomberg",
-            "date": datetime.now(timezone.utc).isoformat(),
-        })
-    return items
-
-import feedparser   # добавьте в requirements.txt: feedparser==6.0.11
-
-# ... ваши KEYWORDS и т.д. остаются ...
 
 def parse_rss(url: str, source_name: str) -> list:
-    """Универсальный парсер RSS"""
+    """Парсинг RSS с подробными логами"""
     items = []
+    print(f"\n→ RSS: {source_name}")
+    print(f"  URL: {url}")
+
     try:
-        # feedparser сам ходит по URL
-        feed = feedparser.parse(url, request_headers=HEADERS)
+        # Сначала пробуем через requests (лучше контролируем заголовки)
+        resp = SESSION.get(url, timeout=TIMEOUT)
+        resp.raise_for_status()
+        content = resp.content
+
+        feed = feedparser.parse(content)
+
+        if feed.bozo:
+            print(f"  [WARN] feedparser bozo: {feed.bozo_exception}")
+
+        total = len(feed.entries)
+        print(f"  Всего записей в ленте: {total}")
+
+        matched = 0
         for entry in feed.entries:
             title = normalize_text(entry.get("title", ""))
-            link = entry.get("link", "").strip()
+            link = (entry.get("link") or "").strip()
+
             if not title or not link:
                 continue
+
             if not matches_keywords(title):
                 continue
 
-            # дата
+            matched += 1
+
             published = entry.get("published_parsed") or entry.get("updated_parsed")
             if published:
                 dt = datetime(*published[:6], tzinfo=timezone.utc)
@@ -260,17 +161,26 @@ def parse_rss(url: str, source_name: str) -> list:
                 "source": source_name,
                 "date": dt.isoformat(),
             })
+
+        print(f"  Прошло фильтр ключевых слов: {matched}")
+
     except Exception as e:
-        print(f"[ERROR] RSS {source_name}: {e}")
+        print(f"  [ERROR] {source_name}: {type(e).__name__}: {e}")
+
     return items
 
 
 def main():
-    print("Старт сканирования...")
+    print("=" * 60)
+    print("Старт сканирования новостей")
+    print("=" * 60)
+
     existing = load_existing()
+    print(f"Уже было в news.json: {len(existing)} записей")
+
     new_items = []
 
-    # === Finam (RSS) ===
+    # ========== FINAM (RSS) ==========
     new_items.extend(parse_rss(
         "https://www.finam.ru/analysis/conews/rsspoint/",
         "Финам"
@@ -280,7 +190,7 @@ def main():
         "Финам"
     ))
 
-    # === Bloomberg (RSS) ===
+    # ========== BLOOMBERG (RSS) ==========
     new_items.extend(parse_rss(
         "https://feeds.bloomberg.com/markets/news.rss",
         "Bloomberg"
@@ -290,56 +200,29 @@ def main():
         "Bloomberg"
     ))
 
-    # === Interfax и Коммерсантъ можно оставить на HTML или тоже перевести на RSS ===
-    # Interfax RSS: https://www.interfax.ru/rss.asp
-    # Коммерсантъ: https://www.kommersant.ru/RSS/news.xml
+    # ========== INTERFAX (RSS — для надёжности) ==========
+    new_items.extend(parse_rss(
+        "https://www.interfax.ru/rss.asp",
+        "Интерфакс"
+    ))
 
-    # Пример HTML (если хотите оставить):
-    # html = fetch("https://www.interfax.ru/")
-    # if html:
-    #     new_items.extend(parse_interfax(html))
+    # ========== КОММЕРСАНТЪ (RSS) ==========
+    new_items.extend(parse_rss(
+        "https://www.kommersant.ru/RSS/news.xml",
+        "Коммерсантъ"
+    ))
+
+    print("\n" + "=" * 60)
+    print(f"Новых подходящих новостей собрано: {len(new_items)}")
+    print("=" * 60)
+
+    # Показываем примеры, что именно нашлось
+    for src in ["Финам", "Bloomberg", "Интерфакс", "Коммерсантъ"]:
+        count = sum(1 for x in new_items if x["source"] == src)
+        print(f"  {src}: {count}")
 
     all_items = existing + new_items
     save_news(all_items)
-    print("Готово.")
-
-
-# ================== ОСНОВНОЙ ПРОЦЕСС ==================
-
-def main():
-    print("Старт сканирования...")
-    existing = load_existing()
-    new_items = []
-
-    sources = [
-        ("https://www.interfax.ru/", parse_interfax),
-        ("https://www.interfax.ru/business", parse_interfax),
-        ("https://www.kommersant.ru/finance", parse_kommersant),
-        ("https://www.kommersant.ru/finance?page=2", parse_kommersant),
-        ("https://www.kommersant.ru/finance?page=3", parse_kommersant),
-        ("https://www.finam.ru/", parse_finam),
-        ("https://www.finam.ru/analysis/newsitem/", parse_finam),
-        ("https://www.bloomberg.com/europe", parse_bloomberg),
-        ("https://www.bloomberg.com/markets", parse_bloomberg),
-    ]
-
-    for url, parser in sources:
-        print(f"→ {url}")
-        html = fetch(url)
-        if not html:
-            continue
-        try:
-            found = parser(html)
-            print(f"  найдено подходящих: {len(found)}")
-            new_items.extend(found)
-        except Exception as e:
-            print(f"  ошибка парсера: {e}")
-        time.sleep(1.5)  # вежливая задержка
-
-    # Объединяем со старыми
-    all_items = existing + new_items
-    save_news(all_items)
-    print("Готово.")
 
 
 if __name__ == "__main__":
