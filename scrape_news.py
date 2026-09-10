@@ -229,6 +229,80 @@ def parse_bloomberg(html: str, base: str = "https://www.bloomberg.com") -> list:
         })
     return items
 
+import feedparser   # добавьте в requirements.txt: feedparser==6.0.11
+
+# ... ваши KEYWORDS и т.д. остаются ...
+
+def parse_rss(url: str, source_name: str) -> list:
+    """Универсальный парсер RSS"""
+    items = []
+    try:
+        # feedparser сам ходит по URL
+        feed = feedparser.parse(url, request_headers=HEADERS)
+        for entry in feed.entries:
+            title = normalize_text(entry.get("title", ""))
+            link = entry.get("link", "").strip()
+            if not title or not link:
+                continue
+            if not matches_keywords(title):
+                continue
+
+            # дата
+            published = entry.get("published_parsed") or entry.get("updated_parsed")
+            if published:
+                dt = datetime(*published[:6], tzinfo=timezone.utc)
+            else:
+                dt = datetime.now(timezone.utc)
+
+            items.append({
+                "title": title,
+                "link": link,
+                "source": source_name,
+                "date": dt.isoformat(),
+            })
+    except Exception as e:
+        print(f"[ERROR] RSS {source_name}: {e}")
+    return items
+
+
+def main():
+    print("Старт сканирования...")
+    existing = load_existing()
+    new_items = []
+
+    # === Finam (RSS) ===
+    new_items.extend(parse_rss(
+        "https://www.finam.ru/analysis/conews/rsspoint/",
+        "Финам"
+    ))
+    new_items.extend(parse_rss(
+        "https://www.finam.ru/international/advanced/rsspoint/",
+        "Финам"
+    ))
+
+    # === Bloomberg (RSS) ===
+    new_items.extend(parse_rss(
+        "https://feeds.bloomberg.com/markets/news.rss",
+        "Bloomberg"
+    ))
+    new_items.extend(parse_rss(
+        "https://feeds.bloomberg.com/economics/news.rss",
+        "Bloomberg"
+    ))
+
+    # === Interfax и Коммерсантъ можно оставить на HTML или тоже перевести на RSS ===
+    # Interfax RSS: https://www.interfax.ru/rss.asp
+    # Коммерсантъ: https://www.kommersant.ru/RSS/news.xml
+
+    # Пример HTML (если хотите оставить):
+    # html = fetch("https://www.interfax.ru/")
+    # if html:
+    #     new_items.extend(parse_interfax(html))
+
+    all_items = existing + new_items
+    save_news(all_items)
+    print("Готово.")
+
 
 # ================== ОСНОВНОЙ ПРОЦЕСС ==================
 
