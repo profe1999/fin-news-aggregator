@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-10T06:23:23.656827+00:00",
-  "count": 42,
+  "updated_at": "2026-09-10T11:18:52.203131+00:00",
+  "count": 45,
   "items": [
+    {
+      "title": "Нефть Brent превысила $102 за баррель впервые с конца мая",
+      "link": "https://www.kommersant.ru/doc/8940668",
+      "source": "Коммерсантъ",
+      "date": "2026-09-10T11:18:43.156684+00:00"
+    },
+    {
+      "title": "TotalEnergies обнаружила новую нефть в Анголе",
+      "link": "https://www.interfax.ru/business/1114265",
+      "source": "Интерфакс",
+      "date": "2026-09-10T11:18:38.464140+00:00"
+    },
+    {
+      "title": "TotalEnergies обнаружила новую нефть в Анголе",
+      "link": "https://www.interfax.ru/business/1114265?utm_source=top",
+      "source": "Интерфакс",
+      "date": "2026-09-10T11:18:38.462740+00:00"
+    },
     {
       "title": "В рамках системы InvestRussia ВЭБ.РФ установил сотрудничество с Invest India и FICCI",
       "link": "https://www.kommersant.ru/doc/8939903",
