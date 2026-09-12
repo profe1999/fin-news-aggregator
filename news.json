@@ -1,7 +1,295 @@
 {
-  "updated_at": "2026-09-11T06:21:15.996781+00:00",
-  "count": 149,
+  "updated_at": "2026-09-12T06:20:17.654963+00:00",
+  "count": 194,
   "items": [
+    {
+      "title": "ВС РФ ночью поразили металлургические заводы в Запорожье, Днепропетровске и Кривом роге",
+      "link": "https://www.interfax.ru/russia/1115663",
+      "source": "Интерфакс",
+      "date": "2026-09-12T05:38:00+00:00"
+    },
+    {
+      "title": "Рассмотрение законопроекта об «адских санкциях» против России начнется 14 сентября",
+      "link": "https://www.kommersant.ru/doc/8953306",
+      "source": "Коммерсантъ",
+      "date": "2026-09-12T02:27:57+00:00"
+    },
+    {
+      "title": "Wall Street Week | Venezuela’s Oil Test, Overcapacity in Renewables, Defense Tech Boom",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-11/wall-street-week-eu-s-solar-problem-defense-tech-boom-video",
+      "source": "Bloomberg",
+      "date": "2026-09-11T23:13:11+00:00"
+    },
+    {
+      "title": "Former NY Fed President on Remembering 9/11",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-11/former-ny-fed-president-on-remembering-9-11-video",
+      "source": "Bloomberg",
+      "date": "2026-09-11T23:03:26+00:00"
+    },
+    {
+      "title": "Bill Dudley Expects Fed to Raise Rate by 25 Bps",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-11/dudley-expects-fed-to-raise-rate-by-25-bps-video",
+      "source": "Bloomberg",
+      "date": "2026-09-11T21:12:16+00:00"
+    },
+    {
+      "title": "Росстат: годовая инфляция в августе ускорилась до 6,33%",
+      "link": "https://www.kommersant.ru/doc/8953020",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T18:35:11+00:00"
+    },
+    {
+      "title": "Законопроект о санкциях против России планируется вынести на голосование в Палате представителей на следующей неделе",
+      "link": "https://www.finam.ru/publications/item/zakonoproekt-o-sanktsiyakh-protiv-rossii-planiruetsya-vynesti-na-golosovanie-v-palate-predstaviteley-na-sleduyushchey-nedele-20260911-2101/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T17:54:19+00:00"
+    },
+    {
+      "title": "Warsh Confronts Calls for Fed Rate Hike as Inflation Tops Forecasts",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/fed-chairman-warsh-faces-pressure-to-put-up-or-shut-up-after-hot-cpi-report",
+      "source": "Bloomberg",
+      "date": "2026-09-11T16:47:12+00:00"
+    },
+    {
+      "title": "Росстат подтвердил рост ВВП России во 2 квартале на 1,3%",
+      "link": "https://www.finam.ru/publications/item/rosstat-podtverdil-rost-vvp-rossii-vo-2-kvartale-na-13-20260911-1945/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T16:45:12+00:00"
+    },
+    {
+      "title": "Рынок эмоционально пережил неизменность ключевой ставки",
+      "link": "https://www.finam.ru/publications/item/rynok-emotsionalno-perezhil-neizmennost-klyuchevoy-stavki-20260911-1948/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T16:44:28+00:00"
+    },
+    {
+      "title": "Fed’s Rate Decision May Have Come Down to Phone Plan Changes",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/fed-s-rate-decision-may-have-come-down-to-phone-plan-changes",
+      "source": "Bloomberg",
+      "date": "2026-09-11T15:43:04+00:00"
+    },
+    {
+      "title": "Трейдеры рынка облигаций ожидают двух повышений ставки ФРС в 2026 году после отчета по инфляции",
+      "link": "https://www.finam.ru/publications/item/treydery-rynka-obligatsiy-ozhidayut-dvukh-povysheniy-stavki-frs-v-2026-godu-posle-otcheta-po-inflyatsii-20260911-1838/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-11T15:38:22+00:00"
+    },
+    {
+      "title": "US Consumer Sentiment Slides on Higher Gas, Trade Tensions",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/us-consumer-sentiment-slides-on-higher-gas-trade-tensions",
+      "source": "Bloomberg",
+      "date": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "title": "US CPI Report August 2026: Key Takeaways on Inflation, Consumer Price Index",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/us-cpi-report-august-2026-key-takeaways-on-inflation-consumer-price-index",
+      "source": "Bloomberg",
+      "date": "2026-09-11T13:44:24+00:00"
+    },
+    {
+      "title": "Эльвира Набиуллина рассказала, почему ЦБ продает золото",
+      "link": "https://www.finam.ru/publications/item/elvira-nabiullina-rasskazala-pochemu-tsb-prodaet-zoloto-20260911-1645/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T13:41:01+00:00"
+    },
+    {
+      "title": "Совокупный ВВП стран БРИКС вырос в 4,5 раза",
+      "link": "https://www.finam.ru/publications/item/sovokupnyy-vvp-stran-briks-vyros-v-45-raza-20260911-1622/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-11T13:22:56+00:00"
+    },
+    {
+      "title": "Dollar Wavers as CPI Adds to Fed Hike Bets While Oil Falls",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/dollar-wavers-as-inflation-aids-fed-hike-bets-while-oil-falls",
+      "source": "Bloomberg",
+      "date": "2026-09-11T13:21:27+00:00"
+    },
+    {
+      "title": "Заботкин назвал ближневосточный кризис проинфляционным фактором",
+      "link": "https://www.kommersant.ru/doc/8952806",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T13:07:33+00:00"
+    },
+    {
+      "title": "Путин: вклад БРИКС в мировой ВВП превысил вклад G7 // Путин: БРИКС произвела 40% мирового ВВП за последние пять лет против 29% у G7",
+      "link": "https://www.kommersant.ru/doc/8952819",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T13:04:25+00:00"
+    },
+    {
+      "title": "МУС потратит €1 млн на замену программного обеспечения из-за санкций США",
+      "link": "https://www.kommersant.ru/doc/8952816",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T12:59:02+00:00"
+    },
+    {
+      "title": "Набиуллина: снижение ключевой ставки содержательно не обсуждалось",
+      "link": "https://www.kommersant.ru/doc/8952812",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T12:58:35+00:00"
+    },
+    {
+      "title": "Набиуллина оценила влияние ударов ВСУ по логистическим объектам на инфляцию",
+      "link": "https://www.kommersant.ru/doc/8952813",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T12:56:54+00:00"
+    },
+    {
+      "title": "Влияние атак на логистические цепочки на инфляцию пока незначительное, считает ЦБ",
+      "link": "https://www.finam.ru/publications/item/vliyanie-atak-na-logisticheskie-tsepochki-na-inflyatsiyu-poka-neznachitelno-schitaet-tsb-20260911-1556/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T12:53:38+00:00"
+    },
+    {
+      "title": "Годовая инфляция в США в августе составила 3,4%",
+      "link": "https://www.finam.ru/publications/item/godovaya-inflyatsiya-v-ssha-v-avguste-sostavila-34-20260911-1556/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-11T12:52:01+00:00"
+    },
+    {
+      "title": "Набиуллина назвала «крайне вредным» повышение цели по инфляции с 4% // Глава ЦБ Набиуллина оценила возможность повышения цели по инфляции с 4%",
+      "link": "https://www.kommersant.ru/doc/8952797",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T12:44:31+00:00"
+    },
+    {
+      "title": "Treasuries End Bruising Week With Fed Hike Bets Firmed After CPI",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/treasuries-fall-as-higher-than-expected-cpi-boosts-fed-hike-odds",
+      "source": "Bloomberg",
+      "date": "2026-09-11T12:38:05+00:00"
+    },
+    {
+      "title": "US Core CPI Tops Forecasts, Bolstering Case for Rate Hike",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/us-core-cpi-rises-more-than-forecast-bolstering-case-for-hike",
+      "source": "Bloomberg",
+      "date": "2026-09-11T12:31:33+00:00"
+    },
+    {
+      "title": "ЦБ не планирует повышать таргет по инфляции",
+      "link": "https://www.finam.ru/publications/item/tsb-ne-planiruet-povyshat-target-po-inflyatsii-20260911-1529/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T12:28:43+00:00"
+    },
+    {
+      "title": "Лукашенко: Латвия «стреляет себе в ухо» пошлинами на зерно из РФ и Белоруссии // Лукашенко отреагировал на планируемые Латвией пошлины на зерно",
+      "link": "https://www.kommersant.ru/doc/8952761",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T12:23:19+00:00"
+    },
+    {
+      "title": "Цены на нефть Brent падают на 3%, но готовы завершить неделю самым сильным ростом с июля",
+      "link": "https://www.finam.ru/publications/item/tseny-na-neft-brent-padayut-na-3-no-gotovy-zavershit-nedelyu-samym-silnym-rostom-s-iyulya-20260911-1535/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-11T12:22:45+00:00"
+    },
+    {
+      "title": "Набиуллина заявила о сохранении высоких инфляционных ожиданий // Набиуллина: инфляционные ожидания остаются высокими",
+      "link": "https://www.kommersant.ru/doc/8952782",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T12:22:18+00:00"
+    },
+    {
+      "title": "Brazil Inflation Cools More Than Forecast Before Bank Meets",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/brazil-inflation-cools-more-than-forecast-before-rate-decision",
+      "source": "Bloomberg",
+      "date": "2026-09-11T12:17:36+00:00"
+    },
+    {
+      "title": "India Forex Reserves Jump to Record $785.7 Billion on Flows",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/india-s-forex-reserves-jump-to-record-785-7-billion-on-inflows",
+      "source": "Bloomberg",
+      "date": "2026-09-11T11:44:38+00:00"
+    },
+    {
+      "title": "US CPI Report August 2026: Live News on Inflation, Consumer Price Index",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-09-11/us-cpi-report-for-august-live-updates",
+      "source": "Bloomberg",
+      "date": "2026-09-11T11:38:46+00:00"
+    },
+    {
+      "title": "Сохранение ключевой ставки – техническая пауза, считает Аксаков",
+      "link": "https://www.finam.ru/publications/item/sokhranenie-klyuchevoy-stavki-tekhnicheskaya-pauza-schitaet-aksakov-20260911-1436/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T11:34:01+00:00"
+    },
+    {
+      "title": "Силуанов не обсуждал снятие санкций с России при встрече с Бессентом в США",
+      "link": "https://www.kommersant.ru/doc/8952669",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T11:08:42+00:00"
+    },
+    {
+      "title": "ECB Is Just Getting Into Its Stride With Hikes",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/ecb-is-just-getting-into-its-stride-with-hikes",
+      "source": "Bloomberg",
+      "date": "2026-09-11T11:04:29+00:00"
+    },
+    {
+      "title": "ЦБ: инфляция вернется к целевым 4% в 2027 году",
+      "link": "https://www.kommersant.ru/doc/8952690",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T10:51:47+00:00"
+    },
+    {
+      "title": "Проинфляционные риски в России выросли, преобладая над дезинфляционными на среднесрочном горизонте",
+      "link": "https://www.finam.ru/publications/item/proinflyatsionnye-riski-v-rossii-vyrosli-preobladaya-nad-dezinflyatsionnymi-na-srednesrochnom-gorizonte-20260911-1340/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T10:40:59+00:00"
+    },
+    {
+      "title": "ЦБ сохранил ключевую ставку на уровне 14%",
+      "link": "https://www.kommersant.ru/doc/8941162",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T10:30:50+00:00"
+    },
+    {
+      "title": "Банк России сохранил ключевую ставку на уровне 14%, прервав цикл снижения",
+      "link": "https://www.finam.ru/publications/item/bank-rossii-sokhranil-klyuchevuyu-stavku-na-urovne-14-prervav-tsikl-snizheniya-20260911-1321/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T10:21:57+00:00"
+    },
+    {
+      "title": "Акционеры «Диасофта» утвердили дивиденды за 1 полугодие 2026 года в размере 16 рублей на акцию",
+      "link": "https://www.finam.ru/publications/item/aktsionery-diasofta-utverdili-dividendy-za-1-polugodie-2026-goda-v-razmere-16-rubley-na-aktsiyu-20260911-1244/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-11T09:40:27+00:00"
+    },
+    {
+      "title": "МЭА прогнозирует восстановление спроса на нефть не раньше 2027 года",
+      "link": "https://www.kommersant.ru/doc/8946416",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T09:24:36+00:00"
+    },
+    {
+      "title": "МЭА сравнило падение спроса на нефть с шестью крупнейшими за 60 лет кризисами",
+      "link": "https://www.kommersant.ru/doc/8941628",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T09:03:20+00:00"
+    },
+    {
+      "title": "Economists Saw Fed Defying Expectations for Hikes: Survey",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/economists-see-fed-defying-expectations-for-rate-hikes-survey",
+      "source": "Bloomberg",
+      "date": "2026-09-11T09:00:00+00:00"
+    },
+    {
+      "title": "Цена на нефть выросла $108 за баррель впервые с мая",
+      "link": "https://www.kommersant.ru/doc/8941533",
+      "source": "Коммерсантъ",
+      "date": "2026-09-11T08:23:30+00:00"
+    },
+    {
+      "title": "Золото готовится завершить снижением третью неделю подряд",
+      "link": "https://www.finam.ru/publications/item/zoloto-gotovitsya-zavershit-snizheniem-tretyu-nedelyu-podryad-20260911-1119/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-11T08:19:19+00:00"
+    },
+    {
+      "title": "МЭА вновь ухудшило прогнозы по мировому спросу на нефть на 2026 год",
+      "link": "https://www.finam.ru/publications/item/mea-vnov-ukhudshilo-prognozy-po-mirovomu-sprosu-na-neft-na-2026-god-20260911-1112/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-11T08:07:47+00:00"
+    },
     {
       "title": "Цена на золото опустилась ниже $4350 за тройскую унцию впервые с начала сентября",
       "link": "https://www.kommersant.ru/doc/8941429",
@@ -877,24 +1165,6 @@
       "link": "https://www.finam.ru/publications/item/start-ipo-anthropic-perenesen-na-seredinu-oktyabrya-20260905-0955/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
       "source": "Финам",
       "date": "2026-09-05T06:49:42+00:00"
-    },
-    {
-      "title": "Акции «ПИКа» падают на фоне известий о рассмотрении советом директоров делистинга акций",
-      "link": "https://www.finam.ru/publications/item/aktsii-pika-padayut-na-fone-izvestiy-o-rassmotrenii-sovetom-direktorov-delistinga-aktsiy-20260904-1951/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-04T16:51:02+00:00"
-    },
-    {
-      "title": "Акционеры «РУСАЛа» решили не выплачивать дивиденды за 1 полугодие",
-      "link": "https://www.finam.ru/publications/item/aktsionery-rusala-reshili-ne-vyplachivat-dividendy-za-1-polugodie-20260904-1827/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-04T15:27:25+00:00"
-    },
-    {
-      "title": "Polymarket запускает бессрочные фьючерсы на нефть",
-      "link": "https://www.finam.ru/publications/item/polymarket-zapuskaet-bessrochnye-fyuchersy-na-neft-20260904-1158/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-04T08:54:04+00:00"
     }
   ]
 }
