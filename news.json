@@ -1,7 +1,169 @@
 {
-  "updated_at": "2026-09-27T06:21:12.832507+00:00",
-  "count": 239,
+  "updated_at": "2026-09-28T06:24:27.856612+00:00",
+  "count": 248,
   "items": [
+    {
+      "title": "Нефть Brent подорожала до $107,26 за баррель",
+      "link": "https://www.interfax.ru/business/1118832",
+      "source": "Интерфакс",
+      "date": "2026-09-28T05:44:00+00:00"
+    },
+    {
+      "title": "JPMorgan Defies Consensus With Three Thai Rate Hikes in 2027",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/jpmorgan-defies-consensus-with-three-thai-rate-hikes-in-2027",
+      "source": "Bloomberg",
+      "date": "2026-09-28T05:34:19+00:00"
+    },
+    {
+      "title": "Цены на золото упали до минимума за 2 месяца на ожиданиях дальнейшего повышения ставки ФРС",
+      "link": "https://www.finam.ru/publications/item/tseny-na-zoloto-upali-minimuma-za-2-mesyatsa-na-ozhidaniyakh-dalneyshego-povysheniya-stavki-frs-20260928-0845/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-28T05:16:22+00:00"
+    },
+    {
+      "title": "Bond Slide Resumes As Middle East Tensions Boost Oil",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-28/the-asia-trade-9-28-2026-video",
+      "source": "Bloomberg",
+      "date": "2026-09-28T05:13:20+00:00"
+    },
+    {
+      "title": "NSE Shares Slip Below IPO Price After Lackluster India Debut",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/nse-shares-slip-below-ipo-price-after-lackluster-india-debut",
+      "source": "Bloomberg",
+      "date": "2026-09-28T05:03:51+00:00"
+    },
+    {
+      "title": "Российский рынок начал неделю с роста на фоне подъема цен на нефть",
+      "link": "https://www.finam.ru/publications/item/rossiyskiy-rynok-nachal-nedelyu-s-rosta-na-fone-podema-tsen-na-neft-20260928-0815/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-28T04:31:25+00:00"
+    },
+    {
+      "title": "Pimco Sees Value in Australian Bonds as Rate Hikes Overpriced",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/pimco-sees-value-in-australian-bonds-as-rate-hikes-overpriced",
+      "source": "Bloomberg",
+      "date": "2026-09-28T04:30:08+00:00"
+    },
+    {
+      "title": "Emerging Stocks Slide as Oil Gains on Renewed Mideast Tensions",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/emerging-stocks-slide-as-oil-gains-on-renewed-mideast-tensions",
+      "source": "Bloomberg",
+      "date": "2026-09-28T04:14:36+00:00"
+    },
+    {
+      "title": "Japan’s Two-Year Bond Yield Nears 2% as BOJ Rate Hike Bets Mount",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/japan-s-two-year-bond-yield-nears-2-as-boj-rate-hike-bets-mount",
+      "source": "Bloomberg",
+      "date": "2026-09-28T03:18:57+00:00"
+    },
+    {
+      "title": "Золото подешевело ниже $4,2 тыс. за унцию впервые с 5 августа",
+      "link": "https://www.kommersant.ru/doc/8988224",
+      "source": "Коммерсантъ",
+      "date": "2026-09-28T02:12:22+00:00"
+    },
+    {
+      "title": "BOJ Rate Hike in October Is Real Possibility, Ex-Official Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/boj-rate-hike-in-october-is-real-possibility-ex-official-says",
+      "source": "Bloomberg",
+      "date": "2026-09-27T23:30:00+00:00"
+    },
+    {
+      "title": "Лом черных металлов в портах России подорожал до 5% за месяц",
+      "link": "https://www.kommersant.ru/doc/8988181",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T23:05:53+00:00"
+    },
+    {
+      "title": "Прибыль крупных и средних предприятий в первом полугодии упала на 11%",
+      "link": "https://www.kommersant.ru/doc/8988211",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T23:04:01+00:00"
+    },
+    {
+      "title": "Минпросвещения создаст «золотой стандарт» книг и мультфильмов для детсадов",
+      "link": "https://www.kommersant.ru/doc/8988210",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T22:52:48+00:00"
+    },
+    {
+      "title": "Вагит Алекперов возглавил рейтинг Forbes по наибольшим суммам дивидендов",
+      "link": "https://www.kommersant.ru/doc/8988207",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T22:23:04+00:00"
+    },
+    {
+      "title": "Bonds Drop With Stocks as Iran Tensions Boost Oil: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg",
+      "date": "2026-09-27T22:15:52+00:00"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Sept. 28",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28",
+      "source": "Bloomberg",
+      "date": "2026-09-27T22:03:23+00:00"
+    },
+    {
+      "title": "Трамп спрогнозировал падение цен на нефть",
+      "link": "https://www.kommersant.ru/doc/8988204",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T21:37:16+00:00"
+    },
+    {
+      "title": "RBA Set to Raise Key Rate as Patience on Inflation Dwindles",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/rba-set-to-resume-raising-key-rate-as-patience-on-prices-erodes",
+      "source": "Bloomberg",
+      "date": "2026-09-27T21:00:00+00:00"
+    },
+    {
+      "title": "Bessent Urges Fed to Keep ‘Open Mind’ on US Inflation Outlook",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/bessent-urges-fed-to-keep-open-mind-on-us-inflation-outlook",
+      "source": "Bloomberg",
+      "date": "2026-09-27T16:19:18+00:00"
+    },
+    {
+      "title": "Узбекистан взял золото Всемирной шахматной олимпиады",
+      "link": "https://www.kommersant.ru/doc/8988123",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T15:49:27+00:00"
+    },
+    {
+      "title": "Трамп: через Ормузский пролив за ночь экспортировали рекордный объем нефти",
+      "link": "https://www.kommersant.ru/doc/8988080",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T14:15:37+00:00"
+    },
+    {
+      "title": "Zambia Sees GDP Accelerating to 6% in 2027, Fastest Since 2021",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/zambia-sees-gdp-accelerating-to-6-in-2027-fastest-since-2021",
+      "source": "Bloomberg",
+      "date": "2026-09-27T13:49:33+00:00"
+    },
+    {
+      "title": "Инвестиции в облигационные фонды выросли за неделю до $17,3 млрд",
+      "link": "https://www.kommersant.ru/doc/8988059",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T13:06:05+00:00"
+    },
+    {
+      "title": "В Кремле высказались о работе «российского аналога Starlink» // Песков: спутниковая группировка «Рассвет» скоро заработает эффективно",
+      "link": "https://www.kommersant.ru/doc/8987997",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T10:12:30+00:00"
+    },
+    {
+      "title": "В Турции подтвердили переговоры по реэкспорту С-400 // Глава МИД Турции Фидан сообщил о переговорах по реэкспорту российских С-400",
+      "link": "https://www.kommersant.ru/doc/8987977",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T09:18:14+00:00"
+    },
+    {
+      "title": "В Кремле переадресовали правительству вопрос о новых налогах после выборов",
+      "link": "https://www.kommersant.ru/doc/8987945",
+      "source": "Коммерсантъ",
+      "date": "2026-09-27T08:18:01+00:00"
+    },
     {
       "title": "Four ECB Scenarios Sketch a Succession Plan for Post-Lagarde Era",
       "link": "https://www.bloomberg.com/news/articles/2026-09-27/four-ecb-scenarios-sketch-a-succession-plan-for-post-lagarde-era",
@@ -1327,114 +1489,6 @@
       "link": "https://www.finam.ru/publications/item/rossiyskiy-rynok-vpital-sanktsionnyy-negativ-no-ostaetsya-v-minuse-20260921-0930/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
       "source": "Финам",
       "date": "2026-09-21T06:25:31+00:00"
-    },
-    {
-      "title": "Экспорт нефти из Казахстана в направлении \"Усть-Луги\" в августе снизился на 30%",
-      "link": "https://www.interfax.ru/business/1117385",
-      "source": "Интерфакс",
-      "date": "2026-09-21T06:17:00+00:00"
-    },
-    {
-      "title": "Markets Can Handle a Hawkish Fed, Not Uncertainty: Taking Stock",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/markets-can-handle-a-hawkish-fed-not-uncertainty-taking-stock",
-      "source": "Bloomberg",
-      "date": "2026-09-21T06:16:02+00:00"
-    },
-    {
-      "title": "SoftBank намерена привлечь $11 млрд через продажу облигаций для инвестиций в OpenAI",
-      "link": "https://www.finam.ru/publications/item/softbank-namerena-privlech-11-mlrd-cherez-prodazhu-obligatsiy-dlya-investitsiy-v-openai-20260921-0856/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-21T05:50:05+00:00"
-    },
-    {
-      "title": "Brent подешевела до $102 за баррель",
-      "link": "https://www.interfax.ru/business/1117369",
-      "source": "Интерфакс",
-      "date": "2026-09-21T05:43:00+00:00"
-    },
-    {
-      "title": "Акционеры «Хэдхантера» утвердили дивиденды за 1 полугодие в 200 рублей на акцию",
-      "link": "https://www.finam.ru/publications/item/aktsionery-khedkhantera-utverdili-dividendy-za-1-polugodie-v-200-rubley-na-aktsiyu-20260921-0819/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-21T05:14:24+00:00"
-    },
-    {
-      "title": "Copper Holds Gain as Traders Weigh Signs of Near-Term Tightness",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/copper-holds-gain-as-traders-weigh-signs-of-near-term-tightness",
-      "source": "Bloomberg",
-      "date": "2026-09-21T04:56:15+00:00"
-    },
-    {
-      "title": "Российский рынок открыл неделю снижением на фоне санкционных рисков",
-      "link": "https://www.finam.ru/publications/item/rossiyskiy-rynok-otkryl-nedelyu-snizheniem-na-fone-sanktsionnykh-riskov-20260921-0822/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-21T04:38:49+00:00"
-    },
-    {
-      "title": "Morgan Stanley Sees SARB Rate Hike to Keep Inflation on 3% Path",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/morgan-stanley-sees-sarb-rate-hike-to-keep-inflation-on-3-path",
-      "source": "Bloomberg",
-      "date": "2026-09-21T04:30:00+00:00"
-    },
-    {
-      "title": "US Diesel Tops $6.50 as Worsening Global Crunch Feeds Inflation",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-diesel-tops-6-50-a-gallon-as-wars-worsen-global-fuels-crunch",
-      "source": "Bloomberg",
-      "date": "2026-09-21T00:33:06+00:00"
-    },
-    {
-      "title": "South Korea’s Early Exports Rise to Record as Chip Boom Extends",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/s-korea-s-early-exports-maintain-strong-momentum-on-chip-boom",
-      "source": "Bloomberg",
-      "date": "2026-09-21T00:00:00+00:00"
-    },
-    {
-      "title": "WSJ: США готовятся ввести всеобъемлющие санкции против МУС",
-      "link": "https://www.kommersant.ru/doc/8971096",
-      "source": "Коммерсантъ",
-      "date": "2026-09-20T23:13:25+00:00"
-    },
-    {
-      "title": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-      "source": "Bloomberg",
-      "date": "2026-09-20T22:14:48+00:00"
-    },
-    {
-      "title": "Latest Oil Market News and Analysis for Sept. 21",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21",
-      "source": "Bloomberg",
-      "date": "2026-09-20T22:05:05+00:00"
-    },
-    {
-      "title": "Fed’s Kashkari Says Inflation Reaching All Corners of US Economy",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-20/fed-s-kashkari-says-inflation-reaching-all-corners-of-us-economy",
-      "source": "Bloomberg",
-      "date": "2026-09-20T15:32:17+00:00"
-    },
-    {
-      "title": "Китай за восемь месяцев нарастил закупки пшеницы в России в семь раз // Китай с января по август купил у России пшеницы почти на $18 млн",
-      "link": "https://www.kommersant.ru/doc/8970806",
-      "source": "Коммерсантъ",
-      "date": "2026-09-20T10:12:14+00:00"
-    },
-    {
-      "title": "Облачная ИИ-компания Nscale, планирующая IPO, зафиксировала резкий рост выручки",
-      "link": "https://www.finam.ru/publications/item/oblachnaya-ii-kompaniya-nscale-planiruyushchaya-ipo-zafiksirovala-rezkiy-rost-vyruchki-20260920-1212/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-20T09:12:35+00:00"
-    },
-    {
-      "title": "Anthropic изучает возможность выпуска новой модели ИИ перед IPO",
-      "link": "https://www.finam.ru/publications/item/anthropic-izuchaet-vozmozhnost-vypuska-novoy-modeli-ii-pered-ipo-20260920-0952/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-20T06:52:37+00:00"
-    },
-    {
-      "title": "Anthropic переносит планируемое IPO на ноябрь",
-      "link": "https://www.finam.ru/publications/item/anthropic-perenosit-planiruemoe-ipo-na-noyabr-20260920-0935/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-20T06:35:11+00:00"
     }
   ]
 }
