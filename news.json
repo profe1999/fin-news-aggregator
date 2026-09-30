@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-09-29T06:21:59.886698+00:00",
-  "count": 246,
+  "updated_at": "2026-09-30T06:22:38.225967+00:00",
+  "count": 222,
   "items": [
+    {
+      "title": "Стоимость Brent превысила $103 за баррель",
+      "link": "https://www.kommersant.ru/doc/8990119",
+      "source": "Коммерсантъ",
+      "date": "2026-09-30T06:18:57+00:00"
+    },
+    {
+      "title": "РФ за 7 месяцев увеличила выручку от экспорта кондитерских изделий на 12% до $1,1 млрд",
+      "link": "https://www.interfax.ru/business/1119297",
+      "source": "Интерфакс",
+      "date": "2026-09-30T06:15:00+00:00"
+    },
+    {
+      "title": "Capitec Profit, Dividend Hit Record as Clients Top 26.6 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/capitec-profit-dividend-hit-record-as-clients-top-26-6-million",
+      "source": "Bloomberg",
+      "date": "2026-09-30T05:32:07+00:00"
+    },
+    {
+      "title": "Brent подорожала до $103,3 за баррель",
+      "link": "https://www.interfax.ru/business/1119285",
+      "source": "Интерфакс",
+      "date": "2026-09-30T05:32:00+00:00"
+    },
+    {
+      "title": "Bloomberg: Россия за неделю получила рекордные $2,75 млрд от экспорта нефти",
+      "link": "https://www.kommersant.ru/doc/8990087",
+      "source": "Коммерсантъ",
+      "date": "2026-09-30T05:05:58+00:00"
+    },
+    {
+      "title": "Trump Rejects Need for New AI Safety Laws, OpenAI's Altman on IPO Plans",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-30/the-asia-trade-9-30-2026-video",
+      "source": "Bloomberg",
+      "date": "2026-09-30T04:46:45+00:00"
+    },
+    {
+      "title": "Казахстан по итогам 2025-2026 маркетингового года отправил на экспорт 15,5 млн т зерна",
+      "link": "https://www.interfax.ru/business/1119275",
+      "source": "Интерфакс",
+      "date": "2026-09-30T04:21:00+00:00"
+    },
+    {
+      "title": "Inox Clean Energy Files for $1 Billion India IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/inox-clean-energy-files-for-1-billion-india-ipo",
+      "source": "Bloomberg",
+      "date": "2026-09-30T03:48:35+00:00"
+    },
+    {
+      "title": "Why Middle East Oil Risks Now Exceed US-China Tensions",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-30/why-middle-east-oil-risks-now-exceed-us-china-tensions-video",
+      "source": "Bloomberg",
+      "date": "2026-09-30T03:35:21+00:00"
+    },
+    {
+      "title": "Sri Lanka Holds Rates, Signals Readiness to Tackle Inflation",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/sri-lanka-holds-rate-to-spur-growth-even-as-oil-fuels-inflation",
+      "source": "Bloomberg",
+      "date": "2026-09-30T02:03:46+00:00"
+    },
+    {
+      "title": "Australia’s Inflation Slows Even After Jump in Fuel Prices",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/australian-inflation-remains-elevated-as-fuel-price-rises-strike",
+      "source": "Bloomberg",
+      "date": "2026-09-30T01:32:03+00:00"
+    },
+    {
+      "title": "South Korea Tax Revenue to Hit Fresh Record on Global Chip Boom",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/south-korea-tax-revenue-to-hit-fresh-record-on-global-chip-boom",
+      "source": "Bloomberg",
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "title": "Инфляционные ожидания населения выросли до до 14,2%",
+      "link": "https://www.kommersant.ru/doc/8990028",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T23:19:03+00:00"
+    },
+    {
+      "title": "Минфин США объявил о масштабном ужесточении санкций против Кубы",
+      "link": "https://www.kommersant.ru/doc/8990026",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T22:18:51+00:00"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Sept. 30",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30",
+      "source": "Bloomberg",
+      "date": "2026-09-29T22:02:03+00:00"
+    },
+    {
+      "title": "США ввели санкции против 10 компаний и физлиц за помощь Ирану в военных закупках",
+      "link": "https://www.kommersant.ru/doc/8989980",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T19:12:00+00:00"
+    },
+    {
+      "title": "Fed’s Williams Sees One More Interest Rate Hike in Late 2026",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-29/fed-s-williams-sees-one-more-interest-rate-hike-in-late-2026",
+      "source": "Bloomberg",
+      "date": "2026-09-29T18:00:00+00:00"
+    },
+    {
+      "title": "ВОСА «НОВАТЭКа» и «Норникеля» по дивидендам – основные события 30 сентября",
+      "link": "https://www.finam.ru/publications/item/vosa-novateka-i-nornikelya-po-dividendam-osnovnye-sobytiya-30-sentyabrya-20260930-0900/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T16:54:34+00:00"
+    },
+    {
+      "title": "ЦБ упростил кредитование проектов по защите объектов критической инфраструктуры",
+      "link": "https://www.kommersant.ru/doc/8989885",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T16:47:06+00:00"
+    },
+    {
+      "title": "BOE’s Taylor Says Inflation Contained, Urges Caution on Hikes",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-29/boe-s-taylor-says-inflation-contained-urges-caution-on-hikes",
+      "source": "Bloomberg",
+      "date": "2026-09-29T16:07:45+00:00"
+    },
+    {
+      "title": "Fed’s Bowman Touts AI Benefits, Risks for Bank Cybersecurity",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-29/fed-s-bowman-touts-ai-benefits-risks-for-bank-cybersecurity",
+      "source": "Bloomberg",
+      "date": "2026-09-29T15:00:00+00:00"
+    },
+    {
+      "title": "Стоимость нефти Brent опускалась ниже $96 за баррель // Стоимость нефти Brent впервые с 7 сентября опускалась ниже $96 за баррель",
+      "link": "https://www.kommersant.ru/doc/8989721",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T14:05:17+00:00"
+    },
+    {
+      "title": "Цены на нефть падают на фоне того, что Саудовская Аравия возобновила отгрузку нефти из порта Янбу",
+      "link": "https://www.finam.ru/publications/item/tseny-na-neft-padayut-na-fone-togo-chto-saudovskaya-araviya-vozobnovila-otgruzku-nefti-iz-porta-yanbu-20260929-1645/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-29T13:37:52+00:00"
+    },
+    {
+      "title": "The Atlantic: Трамп согласился ослабить санкции против России",
+      "link": "https://www.kommersant.ru/doc/8989700",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T13:30:20+00:00"
+    },
+    {
+      "title": "Госдолг Франции достиг рекордных 119% ВВП",
+      "link": "https://www.kommersant.ru/doc/8989631",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T12:15:20+00:00"
+    },
+    {
+      "title": "«Яндекс» запланировал провести допэмиссию 11 млн акций // «Яндекс» проведет в ноябре допэмиссию 11 млн акций для программы мотивации",
+      "link": "https://www.kommersant.ru/doc/8989585",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T11:17:54+00:00"
+    },
+    {
+      "title": "Производитель умных колец Oura откладывает IPO из-за неопределенности на рынке",
+      "link": "https://www.finam.ru/publications/item/proizvoditel-umnykh-kolets-oura-otkladyvaet-ipo-iz-za-neopredelennosti-na-rynke-20260929-1410/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-09-29T11:01:54+00:00"
+    },
+    {
+      "title": "ТГК-1 планирует провести допэмиссию на 35,5 млрд рублей",
+      "link": "https://www.finam.ru/publications/item/tgk-1-planiruet-provesti-dopemissiyu-na-355-mlrd-rubley-20260929-1352/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T10:45:35+00:00"
+    },
+    {
+      "title": "Чистая прибыль ВТБ за восемь месяцев сократилась на 4%",
+      "link": "https://www.kommersant.ru/doc/8989495",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T10:15:01+00:00"
+    },
+    {
+      "title": "Совет директоров \"Яндекса\" одобрил допэмиссию 11 млн акций в ноябре",
+      "link": "https://www.finam.ru/publications/item/sovet-direktorov-yandeksa-odobril-dopemissiyu-11-mln-aktsiy-v-noyabre-20260929-1308/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T10:06:38+00:00"
+    },
+    {
+      "title": "Изменений в параметрах допэмиссии ВТБ не планируется",
+      "link": "https://www.finam.ru/publications/item/izmeneniy-v-parametrakh-dopemissii-vtb-ne-planiruetsya-20260929-1024/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T07:21:25+00:00"
+    },
+    {
+      "title": "ВТБ прогнозирует прибыль российских банков в ближайшие три года на уровне 3,8-4,5 трлн рублей",
+      "link": "https://www.finam.ru/publications/item/vtb-prognoziruet-pribyl-rossiyskikh-bankov-v-blizhayshie-tri-goda-na-urovne-38-45-trln-rubley-20260929-1019/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T07:16:33+00:00"
+    },
+    {
+      "title": "Чистая прибыль группы ВТБ за 8 месяцев 2026 года по МСФО составила 314,8 млрд",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-gruppy-vtb-za-8-mesyatsev-2026-goda-po-msfo-sostavila-3148-mlrd-20260929-1002/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T07:01:22+00:00"
+    },
+    {
+      "title": "Spanish Inflation Unexpectedly Hits 5%, Backing Higher Rates",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-29/spanish-inflation-unexpectedly-hits-5-backing-higher-ecb-rates",
+      "source": "Bloomberg",
+      "date": "2026-09-29T07:00:00+00:00"
+    },
+    {
+      "title": "Токаев: Казахстан готов продолжать поставлять нефть Германии",
+      "link": "https://www.kommersant.ru/doc/8989256",
+      "source": "Коммерсантъ",
+      "date": "2026-09-29T06:32:05+00:00"
+    },
+    {
+      "title": "Рынок перестал ждать дивидендов «Газпрома»",
+      "link": "https://www.finam.ru/publications/item/rynok-perestal-zhdat-dividendov-gazproma-20260929-0930/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-09-29T06:26:57+00:00"
+    },
     {
       "title": "Рубль на \"Мосбирже\" слегка дешевеет к юаню после завершения налоговых выплат месяца",
       "link": "https://www.interfax.ru/business/1119080",
@@ -1117,366 +1333,6 @@
       "link": "https://www.finam.ru/publications/item/kitayskiy-proizvoditel-mikroskhem-cansemi-tech-planiruet-ipo-pochti-na-1-mlrd-20260923-0954/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
       "source": "Финам",
       "date": "2026-09-23T06:46:18+00:00"
-    },
-    {
-      "title": "Mobile Payments Firm Airtel Money Announces Plans for London IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/mobile-payments-firm-airtel-money-announces-plans-for-london-ipo",
-      "source": "Bloomberg",
-      "date": "2026-09-23T06:09:20+00:00"
-    },
-    {
-      "title": "Drone Detector Sensofusion Seeks €300 Million in Helsinki IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/drone-detector-sensofusion-seeks-300-million-in-helsinki-ipo",
-      "source": "Bloomberg",
-      "date": "2026-09-23T05:48:36+00:00"
-    },
-    {
-      "title": "Дмитриев назвал медь новым золотом из-за рекордных биржевых цен",
-      "link": "https://www.kommersant.ru/doc/8972829",
-      "source": "Коммерсантъ",
-      "date": "2026-09-23T05:44:00+00:00"
-    },
-    {
-      "title": "Brent подешевела до $98,43 за баррель",
-      "link": "https://www.interfax.ru/business/1117888",
-      "source": "Интерфакс",
-      "date": "2026-09-23T05:37:00+00:00"
-    },
-    {
-      "title": "Индекс Nasdaq Composite вновь переписал рекорд, цены на нефть снижаются пятый день подряд",
-      "link": "https://www.finam.ru/publications/item/indeks-nasdaq-composite-vnov-perepisal-rekord-tseny-na-neft-snizhayutsya-pyatyy-den-podryad-20260923-0833/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-23T05:23:17+00:00"
-    },
-    {
-      "title": "Krishnan: Bypassing Hormuz Won’t Displace Gulf Oil",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-23/krishnan-bypassing-hormuz-won-t-displace-gulf-oil-video",
-      "source": "Bloomberg",
-      "date": "2026-09-23T05:03:56+00:00"
-    },
-    {
-      "title": "Singapore Inflation Up for Third Month to Highest Since 2024",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/singapore-core-inflation-rises-third-month-to-highest-since-2024",
-      "source": "Bloomberg",
-      "date": "2026-09-23T05:01:11+00:00"
-    },
-    {
-      "title": "Власти США допустили введение запрета на экспорт дизеля",
-      "link": "https://www.kommersant.ru/doc/8972785",
-      "source": "Коммерсантъ",
-      "date": "2026-09-23T04:58:51+00:00"
-    },
-    {
-      "title": "Ten Cap's Jun Bei Liu: Oil Remains Key Market Risk as Xi and Trump Meet",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-23/jun-bei-liu-oil-is-key-market-risk-as-xi-and-trump-meet-video",
-      "source": "Bloomberg",
-      "date": "2026-09-23T04:45:57+00:00"
-    },
-    {
-      "title": "Россия увеличила в августе экспорт угля в Китай до 9,2 млн тонн",
-      "link": "https://www.kommersant.ru/doc/8972763",
-      "source": "Коммерсантъ",
-      "date": "2026-09-23T04:31:54+00:00"
-    },
-    {
-      "title": "CanSemi Tech Joins China Chip IPO Wave With $919 Million Deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/cansemi-tech-joins-china-chip-ipo-wave-with-919-million-deal",
-      "source": "Bloomberg",
-      "date": "2026-09-23T04:27:22+00:00"
-    },
-    {
-      "title": "Palm Oil Drops to Seven-Week Low on Worries Over Ample Reserves",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/palm-oil-drops-to-seven-week-low-on-worries-over-ample-reserves",
-      "source": "Bloomberg",
-      "date": "2026-09-23T04:17:07+00:00"
-    },
-    {
-      "title": "South Africa Seen Raising Rates to Defend CPI Goal: Day Guide",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/south-africa-seen-raising-rates-to-defend-cpi-goal-day-guide",
-      "source": "Bloomberg",
-      "date": "2026-09-23T04:15:00+00:00"
-    },
-    {
-      "title": "EnerVenue Signs Order with Chinese Oil Producer",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-23/enervenue-signs-order-with-chinese-oil-producer-video",
-      "source": "Bloomberg",
-      "date": "2026-09-23T04:01:54+00:00"
-    },
-    {
-      "title": "Copper Retreats From Near Record as Traders Weigh Fed Outlook",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/copper-retreats-from-near-record-as-traders-weigh-fed-outlook",
-      "source": "Bloomberg",
-      "date": "2026-09-23T03:45:15+00:00"
-    },
-    {
-      "title": "Asia to Face Sustained Inflation Pressure Into 2027, ADB Warns",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-23/asia-to-face-sustained-inflation-pressure-into-2027-adb-warns",
-      "source": "Bloomberg",
-      "date": "2026-09-23T00:00:00+00:00"
-    },
-    {
-      "title": "Bonds, Treasury Futures Rise as Oil Extends Slide: Markets Wrap",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg",
-      "date": "2026-09-22T22:15:07+00:00"
-    },
-    {
-      "title": "Latest Oil Market News and Analysis for Sept. 23",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/latest-oil-market-news-and-analysis-for-sept-23",
-      "source": "Bloomberg",
-      "date": "2026-09-22T22:02:20+00:00"
-    },
-    {
-      "title": "Nagel Says ‘Vigilant’ ECB May Need Mildly Restrictive Rates",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/nagel-says-vigilant-ecb-may-need-mildy-restrictive-rates",
-      "source": "Bloomberg",
-      "date": "2026-09-22T21:37:26+00:00"
-    },
-    {
-      "title": "Fed’s Perli: Treasury Bill Purchases Depend on Market Conditions",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-perli-treasury-bill-purchases-depend-on-market-conditions",
-      "source": "Bloomberg",
-      "date": "2026-09-22T20:25:00+00:00"
-    },
-    {
-      "title": "Трамп выступил за запрет экспорта дизельного топлива из США",
-      "link": "https://www.finam.ru/publications/item/tramp-vystupil-za-zapret-eksporta-dizelnogo-topliva-iz-ssha-20260922-2211/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T19:11:16+00:00"
-    },
-    {
-      "title": "Патрушев заявил о необходимости задействовать все логистические возможности для экспорта зерновых",
-      "link": "https://www.finam.ru/publications/item/patrushev-zayavil-o-neobkhodimosti-zadeystvovat-vse-logisticheskie-vozmozhnosti-dlya-eksporta-zernovykh-20260922-2132/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T18:32:33+00:00"
-    },
-    {
-      "title": "Трамп готов при необходимости задействовать новый закон о санкциях против России",
-      "link": "https://www.finam.ru/publications/item/tramp-gotov-pri-neobkhodimosti-zadeystvovat-novyy-zakon-o-sanktsiyakh-protiv-rossii-20260922-2055/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T17:55:21+00:00"
-    },
-    {
-      "title": "Евросоюз снял санкции с Усманова и Фридмана",
-      "link": "https://www.kommersant.ru/doc/8972668",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T17:51:09+00:00"
-    },
-    {
-      "title": "Минфин России предложил решение для повышения внутреннего спроса на физическое золото",
-      "link": "https://www.finam.ru/publications/item/minfin-rossii-predlozhil-reshenie-dlya-povysheniya-vnutrennego-sprosa-na-fizicheskoe-zoloto-20260922-2032/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T17:32:26+00:00"
-    },
-    {
-      "title": "Евросоюз продлил санкции против России на три года",
-      "link": "https://www.kommersant.ru/doc/8972658",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T17:32:02+00:00"
-    },
-    {
-      "title": "ЕС утвердил продление санкций против России на 3 года с исключением Усманова и Фридмана",
-      "link": "https://www.finam.ru/publications/item/predstaviteli-es-utverdili-prodlenie-sanktsiy-protiv-rossii-na-3-goda-s-isklyucheniem-usmanova-i-fridmana-20260922-2022/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T17:22:56+00:00"
-    },
-    {
-      "title": "Евросоюз продлил санкции против России на три года",
-      "link": "https://www.kommersant.ru/doc/8972656",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T17:09:37+00:00"
-    },
-    {
-      "title": "Азербайджан приостановил авиасообщение с Ираном из-за санкций США // Иранским авиакомпаниям запретили летать в Азербайджан",
-      "link": "https://www.kommersant.ru/doc/8972643",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T17:01:15+00:00"
-    },
-    {
-      "title": "Fitch повысило прогноз роста мирового ВВП на 2026 год до 2,6%",
-      "link": "https://www.finam.ru/publications/item/fitch-povysilo-prognoz-rosta-mirovogo-vvp-na-2026-god-do-26-20260922-1943/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T16:43:18+00:00"
-    },
-    {
-      "title": "Акционеры «Татнефти» и «ИНАРКТИКА» проголосуют по дивидендам – основные события 23 сентября",
-      "link": "https://www.finam.ru/publications/item/aktsionery-tatnefti-i-inarktika-progolosuyut-po-dividendam-osnovnye-sobytiya-23-sentyabrya-20260923-0900/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T16:32:00+00:00"
-    },
-    {
-      "title": "Трамп: новый закон о санкциях против РФ будет использован при необходимости",
-      "link": "https://www.kommersant.ru/doc/8972569",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T15:50:23+00:00"
-    },
-    {
-      "title": "Объемы поставок российской нефти снижаются на фоне санкций США и возобновлении экспорта саудовской нефти",
-      "link": "https://www.finam.ru/publications/item/obemy-postavok-rossiyskoy-nefti-snizhayutsya-na-fone-sanktsiy-ssha-i-vozobnovlenii-eksporta-saudovskoy-nefti-20260922-1823/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T15:19:27+00:00"
-    },
-    {
-      "title": "Reuters: послы ЕС впервые согласовали санкции против РФ сразу на три года",
-      "link": "https://www.kommersant.ru/doc/8972535",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T15:07:26+00:00"
-    },
-    {
-      "title": "Чистая прибыль российских банков снизилась до 440 млрд рублей в августе",
-      "link": "https://www.kommersant.ru/doc/8972532",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T15:00:54+00:00"
-    },
-    {
-      "title": "Reuters: послы ЕС согласовали продление санкций против России сразу на три года",
-      "link": "https://www.kommersant.ru/doc/8972529",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T14:47:34+00:00"
-    },
-    {
-      "title": "Рост потребительского кредитования в России в августе ускорился",
-      "link": "https://www.finam.ru/publications/item/rost-potrebitelskogo-kreditovaniya-v-rossii-v-avguste-uskorilsya-20260922-1735/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T14:30:58+00:00"
-    },
-    {
-      "title": "Чистая прибыль российского банковского сектора в августе составила 440 млрд рублей",
-      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-rossiyskogo-bankovskogo-sektora-v-avguste-sostavila-440-mlrd-rubley-20260922-1719/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T14:13:14+00:00"
-    },
-    {
-      "title": "В США расходы на дата-центры впервые превысили инвестиции в жилье",
-      "link": "https://www.finam.ru/publications/item/v-ssha-raskhody-na-data-tsentry-vpervye-prevysili-investitsii-v-zhile-20260922-1654/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T13:54:59+00:00"
-    },
-    {
-      "title": "Конкурсный управляющий Volkswagen потребовал вернуть выплаченные «Порше Руссланд» дивиденды",
-      "link": "https://www.kommersant.ru/doc/8972450",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T13:44:08+00:00"
-    },
-    {
-      "title": "Nigeria Surprises Market With Deepest Rate Cut Since 2007",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/nigeria-delivers-unexpected-350-basis-point-rate-cut-to-23",
-      "source": "Bloomberg",
-      "date": "2026-09-22T13:06:33+00:00"
-    },
-    {
-      "title": "Hungary Lowers Inflation Goal in Pivot Toward Euro Adoption",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/hungary-lowers-inflation-goal-in-pivot-toward-euro-adoption",
-      "source": "Bloomberg",
-      "date": "2026-09-22T13:05:26+00:00"
-    },
-    {
-      "title": "США анонсировали новые санкции против Международного уголовного суда",
-      "link": "https://www.kommersant.ru/doc/8972419",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T12:57:18+00:00"
-    },
-    {
-      "title": "Iambic Therapeutics подала документы на IPO в США",
-      "link": "https://www.finam.ru/publications/item/iambic-therapeutics-podala-dokumenty-na-ipo-v-ssha-20260922-1532/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T12:32:59+00:00"
-    },
-    {
-      "title": "Инфляционные ожидания россиян на год вперед в сентябре выросли до 14,2%",
-      "link": "https://www.finam.ru/publications/item/inflyatsionnye-ozhidaniya-rossiyan-na-god-vpered-v-sentyabre-vyrosli-do-142-20260922-1507/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T12:02:57+00:00"
-    },
-    {
-      "title": "Hungary Pauses Rate Cuts With Inflation Target in Focus",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/hungary-pauses-interest-rate-cuts-with-inflation-target-in-focus",
-      "source": "Bloomberg",
-      "date": "2026-09-22T12:00:34+00:00"
-    },
-    {
-      "title": "Accelevation планирует достичь оценки до $5,4 млрд в ходе IPO в США",
-      "link": "https://www.finam.ru/publications/item/accelevation-planiruet-dostich-otsenki-do-54-mlrd-v-khode-ipo-v-ssha-20260922-1457/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T11:57:47+00:00"
-    },
-    {
-      "title": "Число частных инвесторов «ДОМ.РФ» выросло в 3 раза менее чем за год",
-      "link": "https://www.finam.ru/publications/item/chislo-chastnykh-investorov-domrf-vyroslo-v-3-raza-menee-chem-za-god-20260922-1452/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T11:52:19+00:00"
-    },
-    {
-      "title": "«Сбербанк» надеется выплатить по итогам 2026 года дивиденды в размере 50% от прибыли",
-      "link": "https://www.finam.ru/publications/item/sberbank-nadeetsya-vyplatit-po-itogam-2026-goda-dividendy-v-razmere-50-ot-pribyli-20260922-1404/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T11:04:41+00:00"
-    },
-    {
-      "title": "Глава «Сбера» подтвердил Путину планы обновить рекорд по прибыли и дивидендам // Путин встретился с главой Сбербанка Германом Грефом",
-      "link": "https://www.kommersant.ru/doc/8972308",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T11:03:33+00:00"
-    },
-    {
-      "title": "Акционеры «Т-Технологий» одобрили допэмиссию акций для консолидации «Точки»",
-      "link": "https://www.kommersant.ru/doc/8972311",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T11:01:48+00:00"
-    },
-    {
-      "title": "Цены на нефть опустились ниже $100",
-      "link": "https://www.finam.ru/publications/item/tseny-na-neft-opustilis-nizhe-100-20260922-1357/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T10:57:09+00:00"
-    },
-    {
-      "title": "В Кремле прокомментировали возможное снятие санкций с Усманова и Фридмана // Песков: санкции должны быть сняты со всех российских бизнесменов и граждан",
-      "link": "https://www.kommersant.ru/doc/8972297",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T10:44:58+00:00"
-    },
-    {
-      "title": "Песков рассказал об альтернативных маршрутах экспорта российского зерна // Песков: Россия экспортирует зерно по альтернативным путям по поручению Путина",
-      "link": "https://www.kommersant.ru/doc/8972286",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T10:39:13+00:00"
-    },
-    {
-      "title": "Цена нефти Brent упала ниже $98 впервые с начала сентября",
-      "link": "https://www.kommersant.ru/doc/8972288",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T10:38:20+00:00"
-    },
-    {
-      "title": "Россия вчетверо сократила отгрузку зерна на экспорт в середине сентября // Отгрузка пшеницы на экспорт во второй декаде сентября снизилась в четыре раза",
-      "link": "https://www.kommersant.ru/doc/8972192",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T09:16:39+00:00"
-    },
-    {
-      "title": "Республиканцы требуют от Трампа запретить экспорт дизеля на фоне роста цен в США",
-      "link": "https://www.kommersant.ru/doc/8972095",
-      "source": "Коммерсантъ",
-      "date": "2026-09-22T07:49:20+00:00"
-    },
-    {
-      "title": "«ДОМ.РФ» прогнозирует увеличение дивидендных выплат",
-      "link": "https://www.finam.ru/publications/item/domrf-prognoziruet-uvelichenie-dividendnykh-vyplat-20260922-1027/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T07:22:14+00:00"
-    },
-    {
-      "title": "Чистая прибыль «ДОМ.РФ» по МСФО за 8 месяцев выросла до 76,6 млрд рублей",
-      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-domrf-po-msfo-za-8-mesyatsev-vyrosla-do-766-mlrd-rubley-20260922-1022/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-09-22T07:16:30+00:00"
-    },
-    {
-      "title": "Китай притормозил IPO производителей человекоподобных роботов",
-      "link": "https://www.finam.ru/publications/item/kitay-pritormozil-ipo-proizvoditeley-chelovekopodobnykh-robotov-20260922-0958/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-09-22T06:58:12+00:00"
     }
   ]
 }
