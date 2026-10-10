@@ -1,7 +1,163 @@
 {
-  "updated_at": "2026-10-09T13:00:40.587906+00:00",
-  "count": 251,
+  "updated_at": "2026-10-10T12:17:31.951572+00:00",
+  "count": 256,
   "items": [
+    {
+      "title": "Лихачев отметил, санкции на рынке урана были бы чувствительнее нефтяных",
+      "link": "https://www.interfax.ru/world/1121598",
+      "source": "Интерфакс",
+      "date": "2026-10-10T12:05:00+00:00"
+    },
+    {
+      "title": "World Economy Latest: US Consumer Sentiment Wanes on Inflation",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/world-economy-latest-us-consumer-sentiment-wanes-on-inflation",
+      "source": "Bloomberg",
+      "date": "2026-10-10T09:00:00+00:00"
+    },
+    {
+      "title": "Потанин в контексте дискуссии о сверхдоходах призвал не брать налоги авансом",
+      "link": "https://www.interfax.ru/business/1121581",
+      "source": "Интерфакс",
+      "date": "2026-10-10T08:34:00+00:00"
+    },
+    {
+      "title": "Egypt Inflation Slows Again Despite Iran War Price Pressures",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/egypt-inflation-slows-again-despite-iran-war-price-pressures",
+      "source": "Bloomberg",
+      "date": "2026-10-10T06:19:10+00:00"
+    },
+    {
+      "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video",
+      "source": "Bloomberg",
+      "date": "2026-10-09T23:13:28+00:00"
+    },
+    {
+      "title": "Flexport CEO on Oil Tanker Costs, Diesel Prices",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video",
+      "source": "Bloomberg",
+      "date": "2026-10-09T23:05:20+00:00"
+    },
+    {
+      "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials",
+      "source": "Bloomberg",
+      "date": "2026-10-09T22:06:37+00:00"
+    },
+    {
+      "title": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video",
+      "source": "Bloomberg",
+      "date": "2026-10-09T21:48:58+00:00"
+    },
+    {
+      "title": "Новак: Россия незамедлительно начинает снимать ограничения на экспорт дизеля",
+      "link": "https://www.kommersant.ru/doc/9023354",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T21:00:55+00:00"
+    },
+    {
+      "title": "Can Trump Fire Fed Governor Lisa Cook?",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/can-trump-fire-fed-governor-lisa-cook",
+      "source": "Bloomberg",
+      "date": "2026-10-09T20:32:12+00:00"
+    },
+    {
+      "title": "Поставки дизельного топлива из России освобождены от американских санкций до 7 апреля 2027 года",
+      "link": "https://www.finam.ru/publications/item/tramp-zayavil-chto-rossiya-dolzhna-nemedlenno-postavit-na-mirovoy-rynok-300-000-tonn-dizelnogo-topliva-20261009-2214/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T19:08:08+00:00"
+    },
+    {
+      "title": "Российская фигуристка Трусова взяла золото на соревнованиях в Казахстане",
+      "link": "https://www.kommersant.ru/doc/9023318",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T18:19:44+00:00"
+    },
+    {
+      "title": "Росстат: годовая инфляция в России ускорилась до 6,35%",
+      "link": "https://www.kommersant.ru/doc/9023315",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T18:09:32+00:00"
+    },
+    {
+      "title": "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/treasuries-slide-on-inflation-worry-as-energy-costs-stay-high",
+      "source": "Bloomberg",
+      "date": "2026-10-09T17:24:58+00:00"
+    },
+    {
+      "title": "Russia’s Above Target Inflation Clouds Path for New Rate Cuts",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/russia-s-above-target-inflation-clouds-path-for-new-rate-cuts",
+      "source": "Bloomberg",
+      "date": "2026-10-09T16:13:50+00:00"
+    },
+    {
+      "title": "Инфляция в России в сентябре составила 0,35%, в годовом выражении - 6,35%",
+      "link": "https://www.finam.ru/publications/item/inflyatsiya-v-rossii-v-sentyabre-sostavila-035-v-godovom-vyrazhenii-635-20261009-1908/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T16:08:52+00:00"
+    },
+    {
+      "title": "Евросоюз поддержит попавший под санкции США Международный уголовный суд",
+      "link": "https://www.kommersant.ru/doc/9023263",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T16:07:22+00:00"
+    },
+    {
+      "title": "Дефицит федерального бюджета России за январь-сентябрь составил 2,2% ВВП",
+      "link": "https://www.finam.ru/publications/item/defitsit-federalnogo-byudzheta-rossii-za-yanvar-sentyabr-sostavil-22-vvp-20261009-1855/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T15:55:25+00:00"
+    },
+    {
+      "title": "Закрытие дивидендного реестра «Займера» - основные события 10 октября",
+      "link": "https://www.finam.ru/publications/item/zakrytie-dividendnogo-reestra-zaymera-osnovnye-sobytiya-10-oktyabrya-20261010-0900/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T15:31:17+00:00"
+    },
+    {
+      "title": "МУС назвал санкции США посягательством на верховенство права",
+      "link": "https://www.kommersant.ru/doc/9023227",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T14:58:25+00:00"
+    },
+    {
+      "title": "Кредитование компаний в России замедлилось в сентябре",
+      "link": "https://www.finam.ru/publications/item/kreditovanie-kompaniy-v-rossii-zamedlilos-v-sentyabre-20261009-1749/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T14:49:59+00:00"
+    },
+    {
+      "title": "США ввели санкции против МУС",
+      "link": "https://www.kommersant.ru/doc/9023224",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T14:49:30+00:00"
+    },
+    {
+      "title": "US Pay Inequality Improves, Wealth Gap Widens in Fed Report",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/us-pay-inequalities-improve-but-wealth-gap-widens-in-fed-report",
+      "source": "Bloomberg",
+      "date": "2026-10-09T14:03:53+00:00"
+    },
+    {
+      "title": "В «Рособоронэкспорте» рассказали о проектах с заказчиками из дружественных стран",
+      "link": "https://www.kommersant.ru/doc/9023164",
+      "source": "Коммерсантъ",
+      "date": "2026-10-09T13:30:36+00:00"
+    },
+    {
+      "title": "«Финам» допустил рост нефти Brent до $130 за баррель в 4 квартале",
+      "link": "https://www.finam.ru/publications/item/finam-dopustil-rost-nefti-brent-do-130-za-barrel-v-4-kvartale-20261009-1611/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T13:11:06+00:00"
+    },
+    {
+      "title": "Аналитики «Финама» прогнозируют рекордную прибыль российских банков в 4-4,2 трлн рублей по итогам 2026 года",
+      "link": "https://www.finam.ru/publications/item/analitiki-finama-prognoziruyut-rekordnuyu-pribyl-rossiyskikh-bankov-v-4-42-trln-rubley-po-itogam-2026-goda-20261009-1608/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-09T13:08:01+00:00"
+    },
     {
       "title": "ЕК даст временные торговые преференции для поддержки армянского экспорта в ЕС",
       "link": "https://www.interfax.ru/world/1121414",
@@ -1381,132 +1537,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-10-03/fed-ecb-minutes-to-show-inflation-fears-as-hike-bets-fade",
       "source": "Bloomberg",
       "date": "2026-10-03T20:00:00+00:00"
-    },
-    {
-      "title": "Трамп решил не запрещать экспорт дизтоплива из США",
-      "link": "https://www.finam.ru/publications/item/tramp-reshil-ne-zapreshchat-eksport-diztopliva-iz-ssha-20261003-0954/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-10-03T06:54:40+00:00"
-    },
-    {
-      "title": "Российские власти планируют к 2030 году сфокусировать господдержку на IPO вместо льготного кредитования",
-      "link": "https://www.finam.ru/publications/item/rossiyskie-vlasti-planiruyut-k-2030-godu-sfokusirovat-gospodderzhku-na-ipo-vmesto-lgotnogo-kreditovaniya-20261003-0912/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-03T06:12:17+00:00"
-    },
-    {
-      "title": "США призывают ООН соблюдать санкции против Ирана",
-      "link": "https://www.interfax.ru/world/1120064",
-      "source": "Интерфакс",
-      "date": "2026-10-03T00:03:00+00:00"
-    },
-    {
-      "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
-      "source": "Bloomberg",
-      "date": "2026-10-02T23:45:17+00:00"
-    },
-    {
-      "title": "Former CEA Chair on Jobs Report, GDP Growth",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video",
-      "source": "Bloomberg",
-      "date": "2026-10-02T22:17:57+00:00"
-    },
-    {
-      "title": "Morgan Stanley's Nike Analyst on quarterly earnings",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-02/morgan-stanley-s-nike-analyst-on-quarterly-earnings-video",
-      "source": "Bloomberg",
-      "date": "2026-10-02T21:55:08+00:00"
-    },
-    {
-      "title": "CEA Chairman: Inflation coming down sufficiently fast",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-02/cea-chairman-inflation-coming-down-sufficiently-fast-video",
-      "source": "Bloomberg",
-      "date": "2026-10-02T21:40:32+00:00"
-    },
-    {
-      "title": "Трамп: США не будут вводить запрет на экспорт дизельного топлива",
-      "link": "https://www.kommersant.ru/doc/9005247",
-      "source": "Коммерсантъ",
-      "date": "2026-10-02T20:42:34+00:00"
-    },
-    {
-      "title": "CME Shelves Plans for 24/7 Oil Contract Amid Industry Qualms",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/cme-shelves-plans-for-24-7-oil-contract-after-industry-pushback",
-      "source": "Bloomberg",
-      "date": "2026-10-02T20:34:44+00:00"
-    },
-    {
-      "title": "В России предложили облагать ПВЗ налогом на имущество по кадастровой стоимости",
-      "link": "https://www.kommersant.ru/doc/9005239",
-      "source": "Коммерсантъ",
-      "date": "2026-10-02T19:38:07+00:00"
-    },
-    {
-      "title": "Lagarde Should Give Clarity on Her Future at ECB, Giorgetti Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/lagarde-should-give-clarity-on-her-future-at-ecb-giorgetti-says",
-      "source": "Bloomberg",
-      "date": "2026-10-02T17:51:53+00:00"
-    },
-    {
-      "title": "Warsh’s Top Fed Deputies Step in to Give Markets a Clear Message",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/warsh-s-top-fed-deputies-step-in-to-give-markets-a-clear-message",
-      "source": "Bloomberg",
-      "date": "2026-10-02T17:49:23+00:00"
-    },
-    {
-      "title": "В Сочи задержаны высокопоставленные сотрудники городской налоговой",
-      "link": "https://www.kommersant.ru/doc/9005156",
-      "source": "Коммерсантъ",
-      "date": "2026-10-02T16:41:49+00:00"
-    },
-    {
-      "title": "Economists Warn of 5% UK Inflation If US Diesel Ban Goes Ahead",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/economists-warn-of-5-uk-inflation-if-us-diesel-ban-goes-ahead",
-      "source": "Bloomberg",
-      "date": "2026-10-02T16:13:49+00:00"
-    },
-    {
-      "title": "Rebecca Patterson Sees Fed Dissents Coming After United Front",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/rebecca-patterson-sees-fed-dissents-coming-after-united-front",
-      "source": "Bloomberg",
-      "date": "2026-10-02T15:35:23+00:00"
-    },
-    {
-      "title": "ECB’s Nightmare Scenario Gets Closer as French Yields Surge",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/ecb-s-nightmare-scenario-gets-closer-as-french-bond-yields-surge",
-      "source": "Bloomberg",
-      "date": "2026-10-02T15:23:18+00:00"
-    },
-    {
-      "title": "РСПП выступил против налога на сверхдоходы для горнодобывающей отрасли",
-      "link": "https://www.kommersant.ru/doc/9005145",
-      "source": "Коммерсантъ",
-      "date": "2026-10-02T15:22:01+00:00"
-    },
-    {
-      "title": "В России собрано 126 млн тонн зерновых, по итогам уборочной компании ожидается 140 млн тонн",
-      "link": "https://www.finam.ru/publications/item/v-rossii-sobrano-126-mln-tonn-zernovykh-po-itogam-uborochnoy-kompanii-ozhidaetsya-140-mln-tonn-20261002-1809/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-02T15:09:09+00:00"
-    },
-    {
-      "title": "Слабый отчет по рынку труда за сентябрь может удержать ФРС от повышения ставки в октябре",
-      "link": "https://www.finam.ru/publications/item/slabyy-otchet-po-rynku-truda-za-sentyabr-mozhet-uderzhat-frs-ot-povysheniya-stavki-v-oktyabre-20261002-1717/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-10-02T14:17:45+00:00"
-    },
-    {
-      "title": "Акционеры «Т Плюс» одобрили дивиденды за 1 полугодие в 0,09 рубля на акцию",
-      "link": "https://www.finam.ru/publications/item/aktsionery-t-plyus-odobrili-dividendy-za-1-polugodie-v-009-rublya-na-aktsiyu-20261002-1701/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-02T14:01:08+00:00"
-    },
-    {
-      "title": "Most of Peru’s Gold Now Comes From Booming Illegal Mining Sector",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/most-of-peru-s-gold-now-comes-from-booming-illegal-mining-sector",
-      "source": "Bloomberg",
-      "date": "2026-10-02T14:00:00+00:00"
     }
   ]
 }
