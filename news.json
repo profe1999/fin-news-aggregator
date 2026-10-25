@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-24T10:43:32.747423+00:00",
-  "count": 226,
+  "updated_at": "2026-10-25T11:08:50.535419+00:00",
+  "count": 220,
   "items": [
+    {
+      "title": "Объем инвестиций в фонды развивающихся стран достиг рекорда за два года",
+      "link": "https://www.kommersant.ru/doc/9060068",
+      "source": "Коммерсантъ",
+      "date": "2026-10-25T10:58:04+00:00"
+    },
+    {
+      "title": "RBA’s Hunter Says Rate ‘Not Quite Yet’ Done Fighting Inflation",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/rba-s-hunter-says-rate-not-quite-yet-done-fighting-inflation",
+      "source": "Bloomberg",
+      "date": "2026-10-25T10:28:29+00:00"
+    },
+    {
+      "title": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
+      "source": "Bloomberg",
+      "date": "2026-10-25T10:00:00+00:00"
+    },
+    {
+      "title": "Индийская компании Jio привлекла $77 млрд в рамках IPO, став лидером в стране по количеству заявок",
+      "link": "https://www.finam.ru/publications/item/indiyskaya-kompanii-jio-privlekla-77-mlrd-v-ramkakh-ipo-stav-liderom-v-strane-po-kolichestvu-zayavok-20261025-0951/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-25T06:51:29+00:00"
+    },
+    {
+      "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead",
+      "source": "Bloomberg",
+      "date": "2026-10-24T20:00:00+00:00"
+    },
+    {
+      "title": "Хуситы отчитались об ударах по аэропортам в Саудовской Аравии",
+      "link": "https://www.kommersant.ru/doc/9059912",
+      "source": "Коммерсантъ",
+      "date": "2026-10-24T18:11:33+00:00"
+    },
+    {
+      "title": "French Protesters Dispersed with Gas as Tensions Rise",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
+      "source": "Bloomberg",
+      "date": "2026-10-24T16:31:00+00:00"
+    },
+    {
+      "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
+      "source": "Bloomberg",
+      "date": "2026-10-24T14:45:05+00:00"
+    },
     {
       "title": "«Роснефть» и «ФосАгро» вышли в лидеры роста на субботних торгах «СПБ Биржи»",
       "link": "https://www.finam.ru/publications/item/rosneft-i-fosagro-vyshli-v-lidery-rosta-na-subbotnikh-torgakh-spb-birzhi-20261024-1051/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
@@ -1273,90 +1321,6 @@
       "link": "https://www.kommersant.ru/doc/9041356",
       "source": "Коммерсантъ",
       "date": "2026-10-18T11:59:03+00:00"
-    },
-    {
-      "title": "Новак: на экспорт пойдут только излишки российских нефтепродуктов",
-      "link": "https://www.kommersant.ru/doc/9041307",
-      "source": "Коммерсантъ",
-      "date": "2026-10-18T09:33:34+00:00"
-    },
-    {
-      "title": "Полиция Парижа отчиталась о рекордном числе задержанных на митингах // В Париже задержали 855 протестующих за день",
-      "link": "https://www.kommersant.ru/doc/9041279",
-      "source": "Коммерсантъ",
-      "date": "2026-10-18T08:37:24+00:00"
-    },
-    {
-      "title": "Трамп анонсировал «очень хорошее решение» по антироссийским санкциям // Трамп: решение по санкциям против России будет полезным для всего мира",
-      "link": "https://www.kommersant.ru/doc/9041261",
-      "source": "Коммерсантъ",
-      "date": "2026-10-18T07:34:11+00:00"
-    },
-    {
-      "title": "«Металлург» расторг контракт с главным тренером Андреем Разиным",
-      "link": "https://www.kommersant.ru/doc/9041251",
-      "source": "Коммерсантъ",
-      "date": "2026-10-18T07:07:58+00:00"
-    },
-    {
-      "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
-      "source": "Bloomberg",
-      "date": "2026-10-18T00:48:28+00:00"
-    },
-    {
-      "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
-      "source": "Bloomberg",
-      "date": "2026-10-17T23:57:37+00:00"
-    },
-    {
-      "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
-      "source": "Bloomberg",
-      "date": "2026-10-17T21:44:20+00:00"
-    },
-    {
-      "title": "UK Inflation Can Seal the Deal on the BOE’s November Rate Hike",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-17/uk-inflation-can-seal-the-deal-on-the-boe-s-november-rate-hike",
-      "source": "Bloomberg",
-      "date": "2026-10-17T20:00:00+00:00"
-    },
-    {
-      "title": "Банк России объяснил, в чем сложность определения «истинной» устойчивой инфляции",
-      "link": "https://www.finam.ru/publications/item/bank-rossii-obyasnil-v-chem-slozhnost-opredeleniya-istinnoy-ustoychivoy-inflyatsii-20261017-2026/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-17T17:26:25+00:00"
-    },
-    {
-      "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
-      "source": "Bloomberg",
-      "date": "2026-10-17T16:31:01+00:00"
-    },
-    {
-      "title": "Мадьяр призвал США еще на год вывести Венгрию из-под санкций по российской нефти",
-      "link": "https://www.kommersant.ru/doc/9041157",
-      "source": "Коммерсантъ",
-      "date": "2026-10-17T14:59:47+00:00"
-    },
-    {
-      "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
-      "source": "Bloomberg",
-      "date": "2026-10-17T14:03:13+00:00"
-    },
-    {
-      "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-17/bank-of-canada-sees-higher-oil-prices-boosting-growth-inflation",
-      "source": "Bloomberg",
-      "date": "2026-10-17T13:01:25+00:00"
-    },
-    {
-      "title": "В Марселе митингующие ворвались в здание мэрии // Полиция во Франции применила слезоточивый газ для разгона протестов",
-      "link": "https://www.kommersant.ru/doc/9041122",
-      "source": "Коммерсантъ",
-      "date": "2026-10-17T12:35:37+00:00"
     }
   ]
 }
