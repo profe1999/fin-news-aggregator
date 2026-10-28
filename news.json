@@ -1,7 +1,349 @@
 {
-  "updated_at": "2026-10-27T11:57:26.797531+00:00",
-  "count": 221,
+  "updated_at": "2026-10-28T12:35:01.091865+00:00",
+  "count": 245,
   "items": [
+    {
+      "title": "Путин: свыше 40 стран Африки получают российское зерно и удобрения",
+      "link": "https://www.kommersant.ru/doc/9062877",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T12:32:26+00:00"
+    },
+    {
+      "title": "Brent остается в плюсе и торгуется у $115,19 за баррель",
+      "link": "https://www.interfax.ru/business/1125506",
+      "source": "Интерфакс",
+      "date": "2026-10-28T12:14:00+00:00"
+    },
+    {
+      "title": "Saudi Oil Exports Near Wartime High as Houthis Mount Attacks",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/saudi-oil-exports-near-wartime-high-as-houthis-mount-attacks",
+      "source": "Bloomberg",
+      "date": "2026-10-28T11:44:36+00:00"
+    },
+    {
+      "title": "\"Рособоронэкспорт\" передал Эфиопии истребители Су-35",
+      "link": "https://www.interfax.ru/russia/1125494",
+      "source": "Интерфакс",
+      "date": "2026-10-28T11:41:00+00:00"
+    },
+    {
+      "title": "Программы льготного автокредитования будут возобновлены в России с 1 декабря",
+      "link": "https://www.finam.ru/publications/item/programmy-lgotnogo-avtokreditovaniya-budut-vozobnovleny-v-rossii-s-1-dekabrya-20261028-1427/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T11:27:32+00:00"
+    },
+    {
+      "title": "Fed Communication Has Gotten Confusing, Economist Sahm Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-communication-has-gotten-confusing-economist-sahm-video",
+      "source": "Bloomberg",
+      "date": "2026-10-28T11:27:03+00:00"
+    },
+    {
+      "title": "Trans-Oil Bonds Drop as Agricultural Firm Delays Audited Results",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/trans-oil-bonds-drop-as-agricultural-firm-delays-audited-results",
+      "source": "Bloomberg",
+      "date": "2026-10-28T11:26:50+00:00"
+    },
+    {
+      "title": "Кто больше всех заработает на IPO Anthropic",
+      "link": "https://www.finam.ru/publications/item/kto-bolshe-vsekh-zarabotaet-na-ipo-anthropic-20261028-1425/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-28T11:25:27+00:00"
+    },
+    {
+      "title": "SK Hynix Profits Surge, Fed Decision on Deck",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-28/the-opening-trade-10-28-2026-video",
+      "source": "Bloomberg",
+      "date": "2026-10-28T11:19:31+00:00"
+    },
+    {
+      "title": "Fed Watchers Prep for Next Step in the Kevin Warsh ‘Discovery Process’",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/fed-watchers-prep-for-next-step-in-the-kevin-warsh-discovery-process",
+      "source": "Bloomberg",
+      "date": "2026-10-28T11:02:37+00:00"
+    },
+    {
+      "title": "«Сбербанк» ожидает сохранения ключевой ставки ЦБ в декабре",
+      "link": "https://www.kommersant.ru/doc/9062777",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T11:01:53+00:00"
+    },
+    {
+      "title": "Мурманский морской порт принял первый эшелон с зерном на экспорт",
+      "link": "https://www.kommersant.ru/doc/9062722",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T10:56:05+00:00"
+    },
+    {
+      "title": "Мантуров анонсировал возобновление программы льготного автокредитования с декабря",
+      "link": "https://www.kommersant.ru/doc/9062730",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T10:51:59+00:00"
+    },
+    {
+      "title": "Посол РФ в Молдавии предупредил о последствиях налогового давления на Приднестровье",
+      "link": "https://www.kommersant.ru/doc/9062700",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T10:28:36+00:00"
+    },
+    {
+      "title": "«Сбербанк» представит новую дивидендную политику 12 ноября",
+      "link": "https://www.kommersant.ru/doc/9062702",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T10:26:48+00:00"
+    },
+    {
+      "title": "Россия готова поставить зерно в Африку в обход Черного моря",
+      "link": "https://www.kommersant.ru/doc/9062690",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T10:14:16+00:00"
+    },
+    {
+      "title": "South Africa Fails to Award Gas-to-Power Projects Due to Supply",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/south-africa-fails-to-award-gas-to-power-projects-due-to-supply",
+      "source": "Bloomberg",
+      "date": "2026-10-28T10:08:17+00:00"
+    },
+    {
+      "title": "«Сбер» представит новую дивидендную политику 12 ноября на Дне инвестора",
+      "link": "https://www.finam.ru/publications/item/sber-predstavit-novuyu-dividendnuyu-politiku-12-noyabrya-na-dne-investora-20261028-1302/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T10:01:07+00:00"
+    },
+    {
+      "title": "\"Сбер\" допускает сохранение ключевой ставки ЦБ в декабре, но считает вероятным снижение на 0,25 п.п.",
+      "link": "https://www.finam.ru/publications/item/sber-dopuskaet-sokhranenie-klyuchevoy-stavki-tsb-v-dekabre-no-schitaet-veroyatnym-snizhenie-na-025-pp-20261028-1219/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T09:17:04+00:00"
+    },
+    {
+      "title": "Экономисты ждут высокой инфляции во всем мире вплоть до 2027 года",
+      "link": "https://www.finam.ru/publications/item/ekonomisty-zhdut-vysokoy-inflyatsii-vo-vsem-mire-vplot-do-2027-goda-20261028-1211/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-28T09:11:45+00:00"
+    },
+    {
+      "title": "Чистая прибыль \"Россети Центр\" за 9 месяцев по РСБУ выросла почти на 15%",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-rosseti-tsentr-za-9-mesyatsev-po-rsbu-vyrosla-pochti-na-15-20261028-1146/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T08:42:24+00:00"
+    },
+    {
+      "title": "РСПП намерен добиваться как минимум временного снятия санкций США",
+      "link": "https://www.kommersant.ru/doc/9062579",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T08:37:41+00:00"
+    },
+    {
+      "title": "Сбербанк увеличил чистую прибыль по МСФО на 17% за девять месяцев // Чистая прибыль Сбербанка по МСФО составила 1,53 трлн рублей за девять месяцев",
+      "link": "https://www.kommersant.ru/doc/9062552",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T08:27:14+00:00"
+    },
+    {
+      "title": "UBS получил прибыль в размере $2,7 млрд и ускорил программу выкупа акций",
+      "link": "https://www.finam.ru/publications/item/ubs-poluchil-pribyl-v-razmere-27-mlrd-i-uskoril-programmu-vykupa-aktsiy-20261028-1115/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-28T08:11:59+00:00"
+    },
+    {
+      "title": "Jio’s IPO Surge Ends Tata’s Reign as Most Valuable India Group",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/jio-s-ipo-surge-ends-tata-s-reign-as-most-valuable-india-group",
+      "source": "Bloomberg",
+      "date": "2026-10-28T07:07:16+00:00"
+    },
+    {
+      "title": "Акции «Займера» выросли более чем на 4,5% после рекомендации по дивидендам",
+      "link": "https://www.kommersant.ru/doc/9062492",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T07:05:09+00:00"
+    },
+    {
+      "title": "Thailand Holds Key Rate, Lifts Growth Outlook on AI Exports",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/thailand-holds-key-rate-as-high-energy-costs-weigh-on-economy",
+      "source": "Bloomberg",
+      "date": "2026-10-28T07:00:45+00:00"
+    },
+    {
+      "title": "Чистая прибыль \"Сбера\" за 9 месяцев выросла на 17% - до 1,53 трлн рублей",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-sbera-za-9-mesyatsev-vyrosla-na-17-do-153-trln-rubley-20261028-0956/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T06:53:37+00:00"
+    },
+    {
+      "title": "Ozon оценил в 30 млрд рублей убытки от атак БПЛА на склады // Чистая прибыль Ozon составила 3,7 млрд рублей в третьем квартале",
+      "link": "https://www.kommersant.ru/doc/9062474",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T06:53:11+00:00"
+    },
+    {
+      "title": "Комитет Госдумы предложил смягчить налоговые поправки о сверхдоходах и штрафах",
+      "link": "https://www.kommersant.ru/doc/9062478",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T06:46:48+00:00"
+    },
+    {
+      "title": "Совет директоров «Займера» рекомендовал выплатить дивиденды за третий квартал // «Займер» может выплатить дивиденды в размере 7,14 руб. на акцию за III квартал",
+      "link": "https://www.kommersant.ru/doc/9062461",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T06:28:29+00:00"
+    },
+    {
+      "title": "СД “Займера” рекомендовал выплатить дивиденды по итогам 3 квартала",
+      "link": "https://www.finam.ru/publications/item/sd-zaymera-rekomendoval-vyplatit-dividendy-po-itogam-3-kvartala-20261028-0925/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T06:25:23+00:00"
+    },
+    {
+      "title": "\"Займер\" увеличил чистую прибыль в 3 квартале на 48% к предыдущему кварталу",
+      "link": "https://www.finam.ru/publications/item/zaymer-uvelichil-chistuyu-pribyl-v-3-kvartale-na-48-k-predydushchemu-kvartalu-20261028-0921/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-28T06:21:23+00:00"
+    },
+    {
+      "title": "Нефть дорожает после атаки хуситов на крупнейший НПЗ Саудовской Аравии",
+      "link": "https://www.finam.ru/publications/item/neft-dorozhaet-posle-ataki-khusitov-na-krupneyshiy-npz-saudovskoy-aravii-20261028-0912/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-28T06:12:17+00:00"
+    },
+    {
+      "title": "Акции Jio Platforms взлетели более чем на 21% в день дебюта после рекордного IPO",
+      "link": "https://www.finam.ru/publications/item/aktsii-jio-platforms-vzleteli-bolee-chem-na-21-v-den-debyuta-posle-rekordnogo-ipo-20261028-0904/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-28T05:57:16+00:00"
+    },
+    {
+      "title": "Weaker Euro Boosts Europe Exporters as Earnings Season Peaks",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
+      "source": "Bloomberg",
+      "date": "2026-10-28T05:49:00+00:00"
+    },
+    {
+      "title": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
+      "source": "Bloomberg",
+      "date": "2026-10-28T05:26:09+00:00"
+    },
+    {
+      "title": "Мишустин подписал распоряжение об ограничении данных об экспорте нефти",
+      "link": "https://www.kommersant.ru/doc/9062348",
+      "source": "Коммерсантъ",
+      "date": "2026-10-28T01:24:54+00:00"
+    },
+    {
+      "title": "RBA’s Bullock Says Upside Inflation Risks Are Materializing",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/rba-s-bullock-says-upside-inflation-risks-are-materializing",
+      "source": "Bloomberg",
+      "date": "2026-10-28T00:31:12+00:00"
+    },
+    {
+      "title": "Gold Steadies Above $4,000 as Focus Turns to Fed Rate Decision",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
+      "source": "Bloomberg",
+      "date": "2026-10-27T23:36:58+00:00"
+    },
+    {
+      "title": "US Stocks Drift as Traders Await Tech Results, Fed: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg",
+      "date": "2026-10-27T22:09:07+00:00"
+    },
+    {
+      "title": "Bank of Canada Decision: Markets Prepare for Higher Interest Rates",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/bank-of-canada-decision-markets-prepare-for-higher-interest-rates",
+      "source": "Bloomberg",
+      "date": "2026-10-27T21:26:08+00:00"
+    },
+    {
+      "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/bullish-treasury-bets-face-reversal-risk-from-hawkish-fed",
+      "source": "Bloomberg",
+      "date": "2026-10-27T20:30:06+00:00"
+    },
+    {
+      "title": "По данным NYT, администрация Трампа рассматривает возможность снятия санкций с РФПИ",
+      "link": "https://www.finam.ru/publications/item/po-dannym-nyt-administratsiya-trampa-rassmatrivaet-vozmozhnost-snyatiya-sanktsiy-s-rfpi-20261027-2218/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-27T19:18:42+00:00"
+    },
+    {
+      "title": "Владимир Путин провел Форум стран—экспортеров газа",
+      "link": "https://www.kommersant.ru/doc/9062312",
+      "source": "Коммерсантъ",
+      "date": "2026-10-27T19:01:17+00:00"
+    },
+    {
+      "title": "NYT: администрация Трампа рассматривает снятие санкций с РФПИ",
+      "link": "https://www.kommersant.ru/doc/9062300",
+      "source": "Коммерсантъ",
+      "date": "2026-10-27T18:30:28+00:00"
+    },
+    {
+      "title": "Госдума приняла в 1 чтении проекты о противодействии нелегальному кредитованию",
+      "link": "https://www.finam.ru/publications/item/gosduma-prinyala-v-1-chtenii-proekty-o-protivodeystvii-nelegalnomu-kreditovaniyu-20261027-2123/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-27T18:23:15+00:00"
+    },
+    {
+      "title": "Отчетности «Сбера», «Озона», ТГК-1, «Займера» и «ВИ.ру» - основные события 28 октября",
+      "link": "https://www.finam.ru/publications/item/otchetnosti-sbera-ozona-tgk-1-zaymera-i-viru-osnovnye-sobytiya-28-oktyabrya-20261028-0900/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-27T17:33:54+00:00"
+    },
+    {
+      "title": "Россия увеличила экспорт нефти на 7% за девять месяцев",
+      "link": "https://www.kommersant.ru/doc/9062080",
+      "source": "Коммерсантъ",
+      "date": "2026-10-27T15:50:10+00:00"
+    },
+    {
+      "title": "Участники саммита Форума стран — экспортеров газа приняли Московскую декларацию",
+      "link": "https://www.kommersant.ru/doc/9062059",
+      "source": "Коммерсантъ",
+      "date": "2026-10-27T15:31:08+00:00"
+    },
+    {
+      "title": "Объем морского экспорта нефти из России снизился до минимума более чем за месяц",
+      "link": "https://www.finam.ru/publications/item/obem-morskogo-eksporta-nefti-iz-rossii-snizilsya-do-minimuma-bolee-chem-za-mesyats-20261027-1729/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-27T14:29:39+00:00"
+    },
+    {
+      "title": "Путин отметил вклад аятоллы Хаменеи в сотрудничество стран-экспортеров газа",
+      "link": "https://www.kommersant.ru/doc/9061959",
+      "source": "Коммерсантъ",
+      "date": "2026-10-27T14:03:28+00:00"
+    },
+    {
+      "title": "Чистая прибыль «Татнефти» по РСБУ выросла за 9 месяцев почти втрое",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-tatnefti-po-rsbu-vyrosla-za-9-mesyatsev-pochti-vtroe-20261027-1636/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-27T13:36:04+00:00"
+    },
+    {
+      "title": "Золото держится у $4 000 в ожидании решения ФРС по ставке",
+      "link": "https://www.finam.ru/publications/item/zoloto-derzhitsya-u-4-000-v-ozhidanii-resheniya-frs-po-stavke-20261027-1544/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-27T12:44:07+00:00"
+    },
+    {
+      "title": "Выручка НМТП по МСФО снизилась за 9 месяцев на 8,3%",
+      "link": "https://www.finam.ru/publications/item/vyruchka-nmtp-po-msfo-snizilas-za-9-mesyatsev-na-83-20261027-1539/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-27T12:39:24+00:00"
+    },
+    {
+      "title": "IPO Anthropic может принести банкам около $562 млн комиссий",
+      "link": "https://www.finam.ru/publications/item/ipo-anthropic-mozhet-prinesti-bankam-okolo-562-mln-komissiy-20261027-1518/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-27T12:18:27+00:00"
+    },
+    {
+      "title": "CNBC назвал IPO Anthropic \"рискованной затеей\"",
+      "link": "https://www.finam.ru/publications/item/ipo-anthropic-vyglyadit-riskovannym-20261027-1452/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-27T11:52:45+00:00"
+    },
     {
       "title": "Novogratz’s Galaxy Tops Revenue Estimates; Shares Rise",
       "link": "https://www.bloomberg.com/news/articles/2026-10-27/novogratz-s-galaxy-tops-revenue-estimates-shares-rise",
@@ -1129,204 +1471,6 @@
       "link": "https://www.finam.ru/publications/item/inflyatsionnye-ozhidaniya-rossiyan-v-oktyabre-snizilis-s-142-do-132-20261021-1550/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
       "source": "Финам",
       "date": "2026-10-21T12:45:39+00:00"
-    },
-    {
-      "title": "Германия случайно ввела новый налог на сигареты раньше срока",
-      "link": "https://www.kommersant.ru/doc/9043864",
-      "source": "Коммерсантъ",
-      "date": "2026-10-21T12:19:59+00:00"
-    },
-    {
-      "title": "В 2026 году дивиденды госкомпаний превысят 800 млрд рублей",
-      "link": "https://www.finam.ru/publications/item/v-2026-godu-dividendy-goskompaniy-prevysyat-800-mlrd-rubley-20261021-1520/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-21T12:14:08+00:00"
-    },
-    {
-      "title": "RBI Minutes Show Split Over Signal for More Rate Hikes",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/inflation-weak-rupee-keep-rbi-rate-hikes-in-play-minutes-show",
-      "source": "Bloomberg",
-      "date": "2026-10-21T11:33:51+00:00"
-    },
-    {
-      "title": "Кузбасс в январе-сентябре увеличил экспорт угля на 7%",
-      "link": "https://www.interfax.ru/business/1123966",
-      "source": "Интерфакс",
-      "date": "2026-10-21T11:13:00+00:00"
-    },
-    {
-      "title": "Asia’s Chip Exports Soar as AI Bubble Debate Rages",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/asia-s-chip-exports-soar-as-ai-bubble-debate-rages",
-      "source": "Bloomberg",
-      "date": "2026-10-21T11:00:01+00:00"
-    },
-    {
-      "title": "Аналитики Goldman видят в высоких ставки фрахта повышательные риски для прогнозов о Brent",
-      "link": "https://www.interfax.ru/business/1123948",
-      "source": "Интерфакс",
-      "date": "2026-10-21T10:34:00+00:00"
-    },
-    {
-      "title": "ECB’s Kazaks Says More Tightening May Be Needed: Econostream",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/ecb-s-kazaks-says-more-tightening-may-be-needed-econostream",
-      "source": "Bloomberg",
-      "date": "2026-10-21T10:09:09+00:00"
-    },
-    {
-      "title": "Japan Has ¥195 Trillion Inflation Windfall, Ex-BOJ Official Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/japan-has-195-trillion-inflation-windfall-ex-boj-official-says",
-      "source": "Bloomberg",
-      "date": "2026-10-21T09:11:52+00:00"
-    },
-    {
-      "title": "Indian Oil to Trim Term Deals With Gulf Producers For Next Year",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/indian-oil-to-trim-term-deals-with-gulf-producers-for-next-year",
-      "source": "Bloomberg",
-      "date": "2026-10-21T09:05:28+00:00"
-    },
-    {
-      "title": "Главное на рынке недвижимости к утру 21 октября // GloraX выкупит акции у участников IPO с премией 19,5%",
-      "link": "https://www.kommersant.ru/doc/9043584",
-      "source": "Коммерсантъ",
-      "date": "2026-10-21T08:54:10+00:00"
-    },
-    {
-      "title": "GloraX выкупит акции у участников IPO с премией 19,5%",
-      "link": "https://www.kommersant.ru/doc/9043574",
-      "source": "Коммерсантъ",
-      "date": "2026-10-21T08:38:11+00:00"
-    },
-    {
-      "title": "«Газпром нефть» испытала первый в России электрический флот гидроразрыва пласта",
-      "link": "https://www.finam.ru/publications/item/gazprom-neft-ispytala-pervyy-v-rossii-elektricheskiy-flot-gidrorazryva-plasta-20261021-1122/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-21T08:12:39+00:00"
-    },
-    {
-      "title": "South African Inflation Rate Up Less Than Expected in September",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/south-african-inflation-rate-up-less-than-expected-in-september",
-      "source": "Bloomberg",
-      "date": "2026-10-21T08:04:55+00:00"
-    },
-    {
-      "title": "«Дочка» GloraX предложит инвесторам выкупить акции с премией в 19,5% к цене IPO",
-      "link": "https://www.finam.ru/publications/item/dochka-glorax-predlozhit-investoram-vykupit-aktsii-s-premiey-v-195-k-tsene-ipo-20261021-1047/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-21T07:47:48+00:00"
-    },
-    {
-      "title": "Netflix отчиталась лучше ожиданий, но представила слабые прогнозы",
-      "link": "https://www.finam.ru/publications/item/netflix-otchitalas-luchshe-ozhidaniy-no-predstavila-slabye-prognozy-20261021-0947/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-10-21T06:47:18+00:00"
-    },
-    {
-      "title": "UK Inflation Hits 11-Month High as Bank of England Eyes Rate Hike",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/inflation-jumps-to-11-month-high-as-bank-of-england-considers-a-hike",
-      "source": "Bloomberg",
-      "date": "2026-10-21T06:04:38+00:00"
-    },
-    {
-      "title": "Азиатские биржи растут вслед за Уолл-стрит, в центре внимания отчетности и дорожающая нефть",
-      "link": "https://www.finam.ru/publications/item/aziatskie-birzhi-rastut-vsled-za-uoll-strit-v-tsentre-vnimaniya-otchetnosti-i-dorozhayushchaya-neft-20261021-0840/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-10-21T05:40:03+00:00"
-    },
-    {
-      "title": "Захарова сравнила планы стран ЕС по санкциям с «мышами, грызущими кактус»",
-      "link": "https://www.kommersant.ru/doc/9043361",
-      "source": "Коммерсантъ",
-      "date": "2026-10-21T04:44:28+00:00"
-    },
-    {
-      "title": "Lane Says Greater Global Euro Use May Help ECB Control Inflation",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/lane-says-greater-global-euro-use-may-help-ecb-control-inflation",
-      "source": "Bloomberg",
-      "date": "2026-10-21T04:15:00+00:00"
-    },
-    {
-      "title": "Мерц объявил об инвестициях Amazon и Nvidia в Германию",
-      "link": "https://www.kommersant.ru/doc/9043353",
-      "source": "Коммерсантъ",
-      "date": "2026-10-21T03:24:09+00:00"
-    },
-    {
-      "title": "China’s Economy in Six Charts: Growth, Exports and the Property Slump",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/china-s-economy-in-six-charts-growth-exports-and-the-property-slump",
-      "source": "Bloomberg",
-      "date": "2026-10-21T00:41:24+00:00"
-    },
-    {
-      "title": "Japan’s Export Growth Stays Solid, Supported by Chips, Cars",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-21/japan-s-export-growth-stays-solid-supported-by-chips-cars",
-      "source": "Bloomberg",
-      "date": "2026-10-21T00:02:32+00:00"
-    },
-    {
-      "title": "Ниша для российских экспортеров пластика может сократиться",
-      "link": "https://www.kommersant.ru/doc/9043313",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T23:30:41+00:00"
-    },
-    {
-      "title": "Скидки на российскую нефть для Китая сократились до 5,2% в августе",
-      "link": "https://www.kommersant.ru/doc/9043199",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T23:28:31+00:00"
-    },
-    {
-      "title": "Latest Oil Market News and Analysis for Oct. 21",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
-      "source": "Bloomberg",
-      "date": "2026-10-20T22:04:52+00:00"
-    },
-    {
-      "title": "В ЕАЭС спрогнозировали падение ВВП Армении на 15,6% в случае выхода из союза",
-      "link": "https://www.kommersant.ru/doc/9043287",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T18:24:08+00:00"
-    },
-    {
-      "title": "Цены на газ в Европе достигли рекорда с 2022 года",
-      "link": "https://www.kommersant.ru/doc/9043209",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T17:15:37+00:00"
-    },
-    {
-      "title": "«Газпром» символически сократил инвестиционную программу на 2026 год // «Газпром» снизил объем инвестиционной программы с 1,1 трлн до 1,096 трлн рублей",
-      "link": "https://www.kommersant.ru/doc/9043152",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T15:13:13+00:00"
-    },
-    {
-      "title": "Рябков: подход России к конфликту на Украине не зависит от санкций США",
-      "link": "https://www.kommersant.ru/doc/9043092",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T13:58:44+00:00"
-    },
-    {
-      "title": "Золотой запас Банка России впервые с 2019 года сократился до 72,8 млн тройских унций",
-      "link": "https://www.finam.ru/publications/item/zolotoy-zapas-banka-rossii-vpervye-s-2019-goda-sokratilsya-do-728-mln-troyskikh-untsiy-20261020-1648/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-20T13:47:34+00:00"
-    },
-    {
-      "title": "ЕАЭС предупредил о падении ВВП Армении на 15% в случае выхода страны из союза",
-      "link": "https://www.kommersant.ru/doc/9043075",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T13:47:25+00:00"
-    },
-    {
-      "title": "Дума приняла в первом чтении правила для инвестиций банков за рубежом",
-      "link": "https://www.kommersant.ru/doc/9043041",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T13:23:56+00:00"
-    },
-    {
-      "title": "«Авиатор» и «Битва моторов» вошли в лонг-лист кинопремии «Золотой орел»",
-      "link": "https://www.kommersant.ru/doc/9043027",
-      "source": "Коммерсантъ",
-      "date": "2026-10-20T13:03:42+00:00"
     }
   ]
 }
