@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-10-30T12:37:14.012078+00:00",
-  "count": 260,
+  "updated_at": "2026-10-31T12:04:20.781924+00:00",
+  "count": 269,
   "items": [
+    {
+      "title": "Правительство продлило запрет на экспорт дизеля производителями до конца января",
+      "link": "https://www.kommersant.ru/doc/9078256",
+      "source": "Коммерсантъ",
+      "date": "2026-10-31T11:10:24+00:00"
+    },
+    {
+      "title": "Правительство России продлило запрет на экспорт дизеля для производителей до 31 января-2027",
+      "link": "https://www.finam.ru/publications/item/pravitelstvo-rossii-prodlilo-zapret-na-eksport-dizelya-dlya-proizvoditeley-do-31-yanvarya-2027-20261031-1409/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-31T11:09:42+00:00"
+    },
+    {
+      "title": "Кабмин РФ продлил до 31 января 2027 г. запрет на экспорт дизтоплива для производителей",
+      "link": "https://www.interfax.ru/business/1126298",
+      "source": "Интерфакс",
+      "date": "2026-10-31T11:02:00+00:00"
+    },
+    {
+      "title": "OpenAI привлекла лишь $11 млрд из целевых $30 млрд в последнем раунде инвестиций",
+      "link": "https://www.kommersant.ru/doc/9078117",
+      "source": "Коммерсантъ",
+      "date": "2026-10-31T03:55:56+00:00"
+    },
+    {
+      "title": "Трамп: глупые люди требуют санкции против России",
+      "link": "https://www.kommersant.ru/doc/9078107",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T22:50:51+00:00"
+    },
+    {
+      "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
+      "source": "Bloomberg",
+      "date": "2026-10-30T20:40:59+00:00"
+    },
+    {
+      "title": "Colombia Suspends Interest Rate Increases as Economy Cools",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/colombia-pauses-interest-rate-rises-as-economy-starts-to-weaken",
+      "source": "Bloomberg",
+      "date": "2026-10-30T18:25:11+00:00"
+    },
+    {
+      "title": "Fed Officials Back More Rate Hikes, Gradual Pace of Tightening",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual",
+      "source": "Bloomberg",
+      "date": "2026-10-30T17:30:00+00:00"
+    },
+    {
+      "title": "Золото опустилось ниже $3900 впервые с 3 октября 2025 года",
+      "link": "https://www.finam.ru/publications/item/zoloto-opustilos-nizhe-3900-vpervye-s-3-oktyabrya-2025-goda-20261030-2027/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
+      "source": "Финам",
+      "date": "2026-10-30T17:21:25+00:00"
+    },
+    {
+      "title": "South Africa’s Godongwana Says GDP Lift Creates Fiscal Headroom",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/south-africa-s-godongwana-says-gdp-lift-creates-fiscal-headroom",
+      "source": "Bloomberg",
+      "date": "2026-10-30T17:13:53+00:00"
+    },
+    {
+      "title": "Совет директоров \"ФосАгро\" рекомендовал выплатить дивиденды из прибыли прошлых лет",
+      "link": "https://www.finam.ru/publications/item/sovet-direktorov-fosagro-rekomendoval-vyplatit-dividendy-iz-pribyli-proshlykh-let-20261030-1958/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T16:54:40+00:00"
+    },
+    {
+      "title": "Чистая прибыль \"Газпром нефти\" за 9 месяцев по РСБУ выросла на 28%",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-gazprom-nefti-za-9-mesyatsev-po-rsbu-vyrosla-na-28-20261030-1922/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T16:20:18+00:00"
+    },
+    {
+      "title": "Новак: правительство готовит исключения по экспорту дизеля на ноябрь",
+      "link": "https://www.kommersant.ru/doc/9077749",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T15:57:07+00:00"
+    },
+    {
+      "title": "Экспорт российского подсолнечного масла сократился на 2%",
+      "link": "https://www.kommersant.ru/doc/9077737",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T15:42:59+00:00"
+    },
+    {
+      "title": "Чистая прибыль «Русала» по РСБУ за девять месяцев сократилась в 300 раз",
+      "link": "https://www.kommersant.ru/doc/9077734",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T15:40:19+00:00"
+    },
+    {
+      "title": "What Christine Lagarde's ECB Exit Means for Europe and Markets: Live Q&A",
+      "link": "https://www.bloomberg.com/sessions/2026-11-02/live-q-amp-a-what-lagarde-s-exit-means-for-the-ecb-and-europe",
+      "source": "Bloomberg",
+      "date": "2026-10-30T15:31:17+00:00"
+    },
+    {
+      "title": "Чистая прибыль ТГК-1 по РСБУ за 9 месяцев снизилась на 2%",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-tgk-1-po-rsbu-za-9-mesyatsev-snizilas-na-2-20261030-1826/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T15:26:10+00:00"
+    },
+    {
+      "title": "“ЭН+ ГРУП” сократила чистую прибыль по РСБУ за 9 месяцев до 12,7 млрд рублей",
+      "link": "https://www.finam.ru/publications/item/en-grup-sokratila-chistuyu-pribyl-po-rsbu-za-9-mesyatsev-do-127-mlrd-rubley-20261030-1822/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T15:22:08+00:00"
+    },
+    {
+      "title": "Who Could Replace Christine Lagarde as ECB President?",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/who-could-replace-christine-lagarde-as-ecb-president-video",
+      "source": "Bloomberg",
+      "date": "2026-10-30T15:20:47+00:00"
+    },
+    {
+      "title": "Чистая прибыль «Промомеда» по РСБУ за 9 месяцев выросла в 30 раз",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-promomeda-po-rsbu-za-9-mesyatsev-vyrosla-v-30-raz-20261030-1812/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T15:12:20+00:00"
+    },
+    {
+      "title": "Чистая прибыль \"РУСАЛа\" по РСБУ за 9 месяцев упала более чем в 300 раз",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-rusala-po-rsbu-za-9-mesyatsev-upala-bolee-chem-v-300-raz-20261030-1732/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T14:28:17+00:00"
+    },
+    {
+      "title": "ВТБ допустил отказ от распределения 50% прибыли на дивиденды",
+      "link": "https://www.kommersant.ru/doc/9077667",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T14:07:57+00:00"
+    },
+    {
+      "title": "Fed’s Barkin Indicates Backing for ‘Gradual’ Rate Increases",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-barkin-indicates-backing-for-gradual-rate-increases",
+      "source": "Bloomberg",
+      "date": "2026-10-30T14:07:51+00:00"
+    },
+    {
+      "title": "Чистая прибыль ЛУКОЙЛа по РСБУ за 9 месяцев выросла почти на 30%",
+      "link": "https://www.kommersant.ru/doc/9077656",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T14:05:00+00:00"
+    },
+    {
+      "title": "Чистая прибыль \"Норникеля\" за 9 месяцев по РСБУ выросла в 3,6 раза",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-nornikelya-za-9-mesyatsev-po-rsbu-vyrosla-v-36-raza-20261030-1637/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T13:34:56+00:00"
+    },
+    {
+      "title": "Чистая прибыль «ЛУКОЙЛа» по РСБУ за 9 месяцев выросла до 457,4 млрд рублей",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-lukoyla-po-rsbu-za-9-mesyatsev-vyrosla-do-4574-mlrd-rubley-20261030-1630/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T13:27:25+00:00"
+    },
+    {
+      "title": "Чистая прибыль \"Транснефти\" за 9 месяцев по РСБУ упала на 16%",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-transnefti-za-9-mesyatsev-po-rsbu-upala-na-16-20261030-1628/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T13:23:17+00:00"
+    },
+    {
+      "title": "German Inflation Slows Sharply on Renewed Fuel-Tax Relief",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/german-inflation-slows-sharply-on-renewed-fuel-tax-relief",
+      "source": "Bloomberg",
+      "date": "2026-10-30T13:03:26+00:00"
+    },
+    {
+      "title": "Новак: частичный запрет на экспорт дизеля планируется продлить до конца января",
+      "link": "https://www.kommersant.ru/doc/9077594",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T13:02:28+00:00"
+    },
+    {
+      "title": "Российские власти планируют продлить запрет на экспорт дизеля до конца января-2027 с исключениями",
+      "link": "https://www.finam.ru/publications/item/rossiyskie-vlasti-planiruyut-prodlit-zapret-na-eksport-dizelya-do-kontsa-yanvarya-2027-s-isklyucheniyami-20261030-1557/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T12:57:35+00:00"
+    },
+    {
+      "title": "Россия в ноябре планирует увеличить экспорт дизеля до 2,15 млн тонн",
+      "link": "https://www.finam.ru/publications/item/rossiya-v-noyabre-planiruet-uvelichit-eksport-dizelya-do-215-mln-tonn-20261030-1552/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-30T12:52:45+00:00"
+    },
+    {
+      "title": "В правительстве объявили о планах экспортировать 2 млн т дизеля в ноябре",
+      "link": "https://www.kommersant.ru/doc/9077591",
+      "source": "Коммерсантъ",
+      "date": "2026-10-30T12:51:49+00:00"
+    },
+    {
+      "title": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs",
+      "source": "Bloomberg",
+      "date": "2026-10-30T12:30:02+00:00"
+    },
     {
       "title": "КСИР отчитался об остановке двух танкеров к югу от Ормузского пролива",
       "link": "https://www.kommersant.ru/doc/9077564",
@@ -1417,150 +1615,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
       "source": "Bloomberg",
       "date": "2026-10-24T14:45:05+00:00"
-    },
-    {
-      "title": "«Роснефть» и «ФосАгро» вышли в лидеры роста на субботних торгах «СПБ Биржи»",
-      "link": "https://www.finam.ru/publications/item/rosneft-i-fosagro-vyshli-v-lidery-rosta-na-subbotnikh-torgakh-spb-birzhi-20261024-1051/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-24T07:51:34+00:00"
-    },
-    {
-      "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
-      "source": "Bloomberg",
-      "date": "2026-10-24T07:48:56+00:00"
-    },
-    {
-      "title": "Чистая прибыль «ФосАгро» по МСФО за 9 месяцев упала в 3,1 раза",
-      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-fosagro-po-msfo-za-9-mesyatsev-upala-v-31-raza-20261024-0956/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-24T06:56:23+00:00"
-    },
-    {
-      "title": "Чистая прибыль «Фосагро» по МСФО снизилась в три раза за девять месяцев",
-      "link": "https://www.kommersant.ru/doc/9059412",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T20:57:03+00:00"
-    },
-    {
-      "title": "Российские компании в октябре могут экспортировать 500 тысяч тонн дизеля, сообщил Новак",
-      "link": "https://www.finam.ru/publications/item/rossiyskie-kompanii-v-oktyabre-mogut-eksportirovat-500-tysyach-tonn-dizelya-soobshchil-novak-20261023-2251/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T19:51:26+00:00"
-    },
-    {
-      "title": "Новак заявил о готовности РФ экспортировать 500 тыс. тонн дизеля в октябре",
-      "link": "https://www.kommersant.ru/doc/9059400",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T19:38:00+00:00"
-    },
-    {
-      "title": "Основные объемы дизеля на экспорт может поставить «Роснефть», заявил Новак",
-      "link": "https://www.finam.ru/publications/item/osnovnye-obemy-dizelya-na-eksport-mozhet-postavit-rosneft-zayavil-novak-20261023-2232/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T19:32:36+00:00"
-    },
-    {
-      "title": "Золото впервые с конца июля упало ниже $4000 за унцию",
-      "link": "https://www.kommersant.ru/doc/9059397",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T19:22:04+00:00"
-    },
-    {
-      "title": "Минфин России готов обсудить налог на сверхдоходы с точки зрения угроз банкротства компаний",
-      "link": "https://www.finam.ru/publications/item/minfin-rossii-gotov-obsudit-nalog-na-sverkhdokhody-s-tochki-zreniya-ugroz-bankrotstva-kompaniy-20261023-2109/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T18:09:10+00:00"
-    },
-    {
-      "title": "Минфин рассмотрит риски банкротства компаний при введении налога на сверхдоходы",
-      "link": "https://www.kommersant.ru/doc/9059375",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T17:53:03+00:00"
-    },
-    {
-      "title": "Нефть марки Brent превысила $117 за баррель впервые за полгода",
-      "link": "https://www.kommersant.ru/doc/9059363",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T17:23:38+00:00"
-    },
-    {
-      "title": "«РуссНефть» за 9 месяцев увеличила чистую прибыль по РСБУ в 4,4 раза",
-      "link": "https://www.finam.ru/publications/item/russneft-za-9-mesyatsev-uvelichila-chistuyu-pribyl-po-rsbu-v-44-raza-20261023-2014/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T17:14:35+00:00"
-    },
-    {
-      "title": "\"Норникель\" представит производственные результаты, \"ЛУКОЙЛ\" закроет реестр для ВОСА по дивидендам - основные события 26 октября",
-      "link": "https://www.finam.ru/publications/item/nornikel-predstavit-proizvodstvennye-rezultaty-lukoyl-zakroet-reestr-dlya-vosa-po-dividendam-osnovnye-sobytiya-26-oktyabrya-20261026-0900/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T15:44:12+00:00"
-    },
-    {
-      "title": "«Русснефть» получила рассрочку на уплату задолженности в 10 млрд рублей",
-      "link": "https://www.kommersant.ru/doc/9059277",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T15:33:44+00:00"
-    },
-    {
-      "title": "Нефть марки Brent превысила $116 впервые с марта",
-      "link": "https://www.kommersant.ru/doc/9059286",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T15:32:16+00:00"
-    },
-    {
-      "title": "Нефть разбушевалась. Цена марки Brent поднялась выше $116 за баррель",
-      "link": "https://www.finam.ru/publications/item/neft-razbushevalas-tsena-marki-brent-podnyalas-vyshe-116-za-barrel-20261023-1704/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-10-23T14:04:28+00:00"
-    },
-    {
-      "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-on-inflation-woes",
-      "source": "Bloomberg",
-      "date": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "title": "Набиуллина объяснила, почему «дизельная сделка» с США не скажется на инфляции в России",
-      "link": "https://www.finam.ru/publications/item/nabiullina-obyasnila-pochemu-dizelnaya-sdelka-s-ssha-ne-skazhetsya-na-inflyatsii-v-rossii-20261023-1642/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T13:42:00+00:00"
-    },
-    {
-      "title": "ЦБ ожидает рост розничного кредитования в России в 2026 году на 3 трлн рублей",
-      "link": "https://www.finam.ru/publications/item/tsb-ozhidaet-rost-roznichnogo-kreditovaniya-v-rossii-v-2026-godu-na-3-trln-rubley-20261023-1630/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T13:30:43+00:00"
-    },
-    {
-      "title": "Банк России очень беспокоит, что инфляционные ожидания не показывают устойчивого снижения",
-      "link": "https://www.finam.ru/publications/item/bank-rossii-ochen-bespokoit-chto-inflyatsionnye-ozhidaniya-ne-pokazyvayut-ustoychivogo-snizheniya-20261023-1613/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T13:13:20+00:00"
-    },
-    {
-      "title": "Kalshi Courts Wall Street in Bid to Be the ‘Inflation Exchange’ With CPI Futures",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/kalshi-courts-wall-street-in-bid-to-be-the-inflation-exchange-with-cpi-futures",
-      "source": "Bloomberg",
-      "date": "2026-10-23T13:00:03+00:00"
-    },
-    {
-      "title": "Константин Шафранов стал новым главным тренером «Металлурга»",
-      "link": "https://www.kommersant.ru/doc/9059066",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T12:53:03+00:00"
-    },
-    {
-      "title": "Brent превысила $115 за баррель впервые с начала мая",
-      "link": "https://www.kommersant.ru/doc/9059097",
-      "source": "Коммерсантъ",
-      "date": "2026-10-23T12:49:23+00:00"
-    },
-    {
-      "title": "ЦБ отметил небольшой рост доли компаний, прибыль которых не покрывает проценты по долгу",
-      "link": "https://www.finam.ru/publications/item/tsb-otmetil-nebolshoy-rost-doli-kompaniy-pribyl-kotorykh-ne-pokryvaet-protsenty-po-dolgu-20261023-1540/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
-      "source": "Финам",
-      "date": "2026-10-23T12:40:40+00:00"
     }
   ]
 }
