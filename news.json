@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-10-31T12:04:20.781924+00:00",
-  "count": 269,
+  "updated_at": "2026-11-01T13:04:35.797437+00:00",
+  "count": 276,
   "items": [
+    {
+      "title": "ОПЕК+ сохранила квоты на декабрь",
+      "link": "https://www.kommersant.ru/doc/9078485",
+      "source": "Коммерсантъ",
+      "date": "2026-11-01T12:34:04+00:00"
+    },
+    {
+      "title": "\"Семерка\" ОПЕК+ решила сохранить действующие квоты по добыче нефти на декабрь",
+      "link": "https://www.interfax.ru/business/1126402",
+      "source": "Интерфакс",
+      "date": "2026-11-01T12:30:00+00:00"
+    },
+    {
+      "title": "\"Семерка\" ОПЕК+ начинает ежемесячное заседание",
+      "link": "https://www.interfax.ru/business/1126397",
+      "source": "Интерфакс",
+      "date": "2026-11-01T12:06:00+00:00"
+    },
+    {
+      "title": "Bloomberg: ОПЕК+ сохранит квоты на добычу нефти в декабре",
+      "link": "https://www.kommersant.ru/doc/9078446",
+      "source": "Коммерсантъ",
+      "date": "2026-11-01T11:21:53+00:00"
+    },
+    {
+      "title": "Bloomberg сообщило о намерении \"семерки\" ОПЕК+ сохранить действующие квоты на добычу нефти в декабре",
+      "link": "https://www.interfax.ru/business/1126392",
+      "source": "Интерфакс",
+      "date": "2026-11-01T10:37:00+00:00"
+    },
+    {
+      "title": "С января по октябрь экспорт газа из России по «Турецкому потоку» вырос на 0,8%",
+      "link": "https://www.finam.ru/publications/item/s-yanvarya-po-oktyabr-eksport-gaza-iz-rossii-po-turetskomu-potoku-vyros-na-08-20261101-1250/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-11-01T09:50:47+00:00"
+    },
+    {
+      "title": "Germany Misses Gas Storage Target as Cold Snap Sets In",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/germany-misses-gas-storage-target-as-cold-snap-sets-in",
+      "source": "Bloomberg",
+      "date": "2026-11-01T09:29:41+00:00"
+    },
+    {
+      "title": "OPEC+ Sticks With Plan for Steady Oil Output Quotas in December",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
+      "source": "Bloomberg",
+      "date": "2026-11-01T09:19:37+00:00"
+    },
+    {
+      "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+      "source": "Bloomberg",
+      "date": "2026-11-01T05:14:49+00:00"
+    },
+    {
+      "title": "S. Korea Exports Extend Robust Growth as Chip Boom Continues",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
+      "source": "Bloomberg",
+      "date": "2026-11-01T00:25:30+00:00"
+    },
+    {
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "source": "Bloomberg",
+      "date": "2026-10-31T20:00:00+00:00"
+    },
+    {
+      "title": "Чистая прибыль «Самолета» по РСБУ за 9 месяцев упала в 2,8 раза",
+      "link": "https://www.finam.ru/publications/item/chistaya-pribyl-samoleta-po-rsbu-za-9-mesyatsev-upala-v-28-raza-20261031-2040/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
+      "source": "Финам",
+      "date": "2026-10-31T17:40:56+00:00"
+    },
+    {
+      "title": "Россия на СМИДе G20 назвала санкции и аресты активов подрывом мировой торговли",
+      "link": "https://www.kommersant.ru/doc/9078336",
+      "source": "Коммерсантъ",
+      "date": "2026-10-31T17:31:23+00:00"
+    },
+    {
+      "title": "Россиянин Ибрагимов взял золото на чемпионате мира по борьбе в Астане",
+      "link": "https://www.kommersant.ru/doc/9078306",
+      "source": "Коммерсантъ",
+      "date": "2026-10-31T14:36:38+00:00"
+    },
+    {
+      "title": "Во Франции одобрили налог на интернет-трафик",
+      "link": "https://www.kommersant.ru/doc/9078268",
+      "source": "Коммерсантъ",
+      "date": "2026-10-31T12:15:35+00:00"
+    },
     {
       "title": "Правительство продлило запрет на экспорт дизеля производителями до конца января",
       "link": "https://www.kommersant.ru/doc/9078256",
@@ -1567,54 +1657,6 @@
       "link": "https://www.finam.ru/publications/item/putin-vneshniy-dolg-rossii-k-vvp-nakhoditsya-na-urovne-26-20261025-1746/?utm_source=rss&utm_medium=new_compaigns&news_to_finamb=new_compaigns",
       "source": "Финам",
       "date": "2026-10-25T14:46:56+00:00"
-    },
-    {
-      "title": "Объем инвестиций в фонды развивающихся стран достиг рекорда за два года",
-      "link": "https://www.kommersant.ru/doc/9060068",
-      "source": "Коммерсантъ",
-      "date": "2026-10-25T10:58:04+00:00"
-    },
-    {
-      "title": "RBA’s Hunter Says Rate ‘Not Quite Yet’ Done Fighting Inflation",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/rba-s-hunter-says-rate-not-quite-yet-done-fighting-inflation",
-      "source": "Bloomberg",
-      "date": "2026-10-25T10:28:29+00:00"
-    },
-    {
-      "title": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
-      "source": "Bloomberg",
-      "date": "2026-10-25T10:00:00+00:00"
-    },
-    {
-      "title": "Индийская компании Jio привлекла $77 млрд в рамках IPO, став лидером в стране по количеству заявок",
-      "link": "https://www.finam.ru/publications/item/indiyskaya-kompanii-jio-privlekla-77-mlrd-v-ramkakh-ipo-stav-liderom-v-strane-po-kolichestvu-zayavok-20261025-0951/?utm_source=rss&utm_medium=world_news&news_to_finamb=world_news",
-      "source": "Финам",
-      "date": "2026-10-25T06:51:29+00:00"
-    },
-    {
-      "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-24/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead",
-      "source": "Bloomberg",
-      "date": "2026-10-24T20:00:00+00:00"
-    },
-    {
-      "title": "Хуситы отчитались об ударах по аэропортам в Саудовской Аравии",
-      "link": "https://www.kommersant.ru/doc/9059912",
-      "source": "Коммерсантъ",
-      "date": "2026-10-24T18:11:33+00:00"
-    },
-    {
-      "title": "French Protesters Dispersed with Gas as Tensions Rise",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
-      "source": "Bloomberg",
-      "date": "2026-10-24T16:31:00+00:00"
-    },
-    {
-      "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
-      "source": "Bloomberg",
-      "date": "2026-10-24T14:45:05+00:00"
     }
   ]
 }
