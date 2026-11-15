@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-14T13:20:50.691892+00:00",
-  "count": 264,
+  "updated_at": "2026-11-15T13:48:15.459259+00:00",
+  "count": 266,
   "items": [
+    {
+      "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
+      "source": "Bloomberg",
+      "date": "2026-11-15T13:17:16+00:00"
+    },
+    {
+      "title": "Каллас сообщила о планах ЕС в понедельник одобрить новые антироссийские санкции",
+      "link": "https://www.interfax.ru/world/1129123",
+      "source": "Интерфакс",
+      "date": "2026-11-15T12:52:00+00:00"
+    },
+    {
+      "title": "В ЕС анонсировали санкции против связанных с Россией участников нефтеперевозок",
+      "link": "https://www.kommersant.ru/doc/9109903",
+      "source": "Коммерсантъ",
+      "date": "2026-11-15T12:50:28+00:00"
+    },
+    {
+      "title": "Норма о налогообложении ПВЗ маркетплейсов по кадастровой стоимости исключена из поправок в НК",
+      "link": "https://www.interfax.ru/business/1129115",
+      "source": "Интерфакс",
+      "date": "2026-11-15T10:42:00+00:00"
+    },
+    {
+      "title": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-15/ecb-can-t-substitute-sound-fiscal-policy-knot-tells-corriere",
+      "source": "Bloomberg",
+      "date": "2026-11-15T07:58:02+00:00"
+    },
+    {
+      "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+      "source": "Bloomberg",
+      "date": "2026-11-14T15:08:45+00:00"
+    },
     {
       "title": "МИД РФ: фон дер Ляйен признала переплаты ЕС за газ из-за своих решений",
       "link": "https://www.kommersant.ru/doc/9109652",
@@ -1561,30 +1597,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-08/rba-s-hunter-says-ai-boom-will-put-near-term-pressure-on-prices",
       "source": "Bloomberg",
       "date": "2026-11-08T22:30:00+00:00"
-    },
-    {
-      "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
-      "source": "Bloomberg",
-      "date": "2026-11-08T04:02:33+00:00"
-    },
-    {
-      "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
-      "source": "Bloomberg",
-      "date": "2026-11-07T21:00:00+00:00"
-    },
-    {
-      "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
-      "source": "Bloomberg",
-      "date": "2026-11-07T15:00:00+00:00"
-    },
-    {
-      "title": "ECB’s Lagarde Says Inflation Likely to Stay High in Near Future",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future",
-      "source": "Bloomberg",
-      "date": "2026-11-07T14:52:20+00:00"
     }
   ]
 }
